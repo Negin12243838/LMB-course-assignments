@@ -1,0 +1,23 @@
+{
+  "source_package": "Q2_Fixed_Fold_Comparison_Package.zip",
+  "source_package_sha256": "dbf441d3ee4003c7f9282ee9bd8222d22dad0fecf338405180935135aa005ab4",
+  "files": {
+    "frozen_original_folds.csv": "d657d62bc72561bf7c6abaffcd9df319eab91f61ce129d665ba101ed4adfebc4",
+    "LMB_Q2_Fixed_Fold_Comparison.ipynb": "cf184f53b43f72d5504fe18c16c5d2ff9f0c1240b29d29df5ec2e25d9b4b7ac1",
+    "local_validation.json": "2d1fce22f36634cd4661e03889e0fd4f13f29591616db85eca22f04107f5ca1e",
+    "README.md": "8222d7f0cd5223c7384cdb41af855659291912b81c444639b33483330901c199",
+    "results/configuration.json": "0dda8630405aa6f8bc0f2f06f2c6ae3b6bbcf3eefd6b4490f223a863044875e3",
+    "results/fixed_fold_comparison_audit.csv": "db23cce44db049698d205c598dddb6d5802d5549e5864d0e4890a9d9ca72f57b",
+    "results/handcrafted_common_validation_predictions.csv": "7d78eb7f979e78fa755c59ce7ef99103ef42baea0c0a20b6d07155a336474393",
+    "results/handcrafted_focus_Ftest_SVM.csv": "e70ba6d7e26be1badd9b450ac18099164fbd3d6f2848a0bf324e32835ca152dd",
+    "results/handcrafted_original_full_validation_fold_scores.csv": "fad7ba023c1d3a2d894f32d07cb01fcad571a4f12f2d938167703e8591441bd6",
+    "results/handcrafted_paired_cohort_summary.csv": "4668c29aac1e3db79a79bcd0e202e640c78393d0070c042b6e48500445c97ed1",
+    "results/handcrafted_paired_fold_scores.csv": "8e9a00073822412455e2bdb6196323bd819da9be68c1be989f1154047fe1cb8e",
+    "results/handcrafted_paired_Ftest_SVM_delta.png": "ee5dd6017a2506669c4840a4fd73aee6ee210a32e1a27c263fa3427e47b69066",
+    "results/handcrafted_paired_subject_results.csv": "187f019f48fe05fb97249fbdfebc5f65e23e90b09baaf3e508d6e511319959a4",
+    "results/handcrafted_selected_features.csv": "feeb20b88abc66e5e830f46deac0e01e00f725c371c0b36ba96a016113a57b63",
+    "results/handcrafted_suspected_trial_diagnostics.csv": "dbe20a42c31226c6f5d38de19961a320806b8d649f90cccc934738db9669fc7d",
+    "results/handcrafted_suspected_validation_predictions.csv": "3e38f09967b825b67da0821898162340432a45359a076a77c31c864dee7e252b",
+    "results/original_data_inventory.csv": "208df49c3b147612382ff0882e515d05fb9f812d52556bd08697e527354b5d9a"
+  }
+}

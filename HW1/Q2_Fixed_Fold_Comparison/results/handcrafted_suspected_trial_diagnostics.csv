@@ -1,0 +1,33 @@
+representation,subject,trial,selector,model,policy,n_windows,correct_windows,accuracy
+handcrafted,1,6,F-test,Decision Tree,exclude,3,0,0.0
+handcrafted,1,6,F-test,Decision Tree,include,3,0,0.0
+handcrafted,1,6,F-test,LDA,exclude,3,3,1.0
+handcrafted,1,6,F-test,LDA,include,3,3,1.0
+handcrafted,1,6,F-test,SVM,exclude,3,0,0.0
+handcrafted,1,6,F-test,SVM,include,3,0,0.0
+handcrafted,1,6,F-test,XGBoost,exclude,3,1,0.3333333333333333
+handcrafted,1,6,F-test,XGBoost,include,3,1,0.3333333333333333
+handcrafted,1,6,MI,Decision Tree,exclude,3,0,0.0
+handcrafted,1,6,MI,Decision Tree,include,3,0,0.0
+handcrafted,1,6,MI,LDA,exclude,3,3,1.0
+handcrafted,1,6,MI,LDA,include,3,3,1.0
+handcrafted,1,6,MI,SVM,exclude,3,0,0.0
+handcrafted,1,6,MI,SVM,include,3,0,0.0
+handcrafted,1,6,MI,XGBoost,exclude,3,0,0.0
+handcrafted,1,6,MI,XGBoost,include,3,0,0.0
+handcrafted,7,21,F-test,Decision Tree,exclude,3,1,0.3333333333333333
+handcrafted,7,21,F-test,Decision Tree,include,3,1,0.3333333333333333
+handcrafted,7,21,F-test,LDA,exclude,3,3,1.0
+handcrafted,7,21,F-test,LDA,include,3,3,1.0
+handcrafted,7,21,F-test,SVM,exclude,3,3,1.0
+handcrafted,7,21,F-test,SVM,include,3,3,1.0
+handcrafted,7,21,F-test,XGBoost,exclude,3,3,1.0
+handcrafted,7,21,F-test,XGBoost,include,3,3,1.0
+handcrafted,7,21,MI,Decision Tree,exclude,3,3,1.0
+handcrafted,7,21,MI,Decision Tree,include,3,3,1.0
+handcrafted,7,21,MI,LDA,exclude,3,3,1.0
+handcrafted,7,21,MI,LDA,include,3,3,1.0
+handcrafted,7,21,MI,SVM,exclude,3,3,1.0
+handcrafted,7,21,MI,SVM,include,3,3,1.0
+handcrafted,7,21,MI,XGBoost,exclude,3,3,1.0
+handcrafted,7,21,MI,XGBoost,include,3,3,1.0

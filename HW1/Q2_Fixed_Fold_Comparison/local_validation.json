@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "scope": "All 15 subjects; handcrafted features; pretrained SingLEM not run locally",
+  "saved_original_folds_preserved": true,
+  "common_validation_samples_identical": true,
+  "primary_fold_scores": 720,
+  "primary_predictions": 15024,
+  "suspected_diagnostic_predictions": 96,
+  "actual_model_fits": 392,
+  "reused_fits": 328,
+  "all_120_original_baseline_subject_scores_reproduced": true,
+  "original_baseline_max_abs_difference": 8.326672684688674e-17,
+  "all_paired_scores_recomputed": true,
+  "unaffected_subject_deltas_exactly_zero": true,
+  "suspected_heldout_predictions_identical_across_policies": true,
+  "elapsed_seconds": 203.09,
+  "versions": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "pandas": "3.0.5",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "xgboost": "3.4.1"
+  }
+}

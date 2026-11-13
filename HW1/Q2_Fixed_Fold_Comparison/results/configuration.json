@@ -1,0 +1,81 @@
+{
+  "seed": 42,
+  "fs": 500,
+  "channels_zero_based": [
+    0,
+    3
+  ],
+  "window": 2500,
+  "step": 1250,
+  "bands": {
+    "delta": [
+      1,
+      4
+    ],
+    "theta": [
+      4,
+      8
+    ],
+    "alpha": [
+      8,
+      12
+    ],
+    "beta": [
+      12,
+      30
+    ],
+    "gamma": [
+      30,
+      45
+    ]
+  },
+  "n_selected": 20,
+  "balance": true,
+  "suspected_trials": [
+    [
+      1,
+      6
+    ],
+    [
+      7,
+      21
+    ]
+  ],
+  "signal_unit_assumed": "uV",
+  "units_independently_verified": false,
+  "remove_trial_constant": true,
+  "additional_notch": false,
+  "primary_evaluation": "identical nonsuspected validation trials for both training policies",
+  "secondary_evaluation": "suspected validation trials reported separately",
+  "versions": {
+    "numpy": "2.5.4",
+    "scipy": "1.18.1",
+    "pandas": "3.0.5",
+    "scikit-learn": "1.9.1",
+    "matplotlib": "3.11.2",
+    "xgboost": "3.4.1"
+  },
+  "archive_sha256": "476f945fa1aa431952e7695b25ed1c66361ffe872129780bcd56de8ce668104e",
+  "original_fold_file_sha256": "d657d62bc72561bf7c6abaffcd9df319eab91f61ce129d665ba101ed4adfebc4",
+  "handcrafted_actual_model_fits": 392,
+  "handcrafted_reused_model_fits": 328,
+  "active_subjects": [
+    1,
+    3,
+    5,
+    7,
+    9,
+    11,
+    13,
+    15,
+    17,
+    19,
+    21,
+    23,
+    27,
+    29,
+    31
+  ],
+  "run_singlem": false,
+  "complete_15_subject_cohort": true
+}

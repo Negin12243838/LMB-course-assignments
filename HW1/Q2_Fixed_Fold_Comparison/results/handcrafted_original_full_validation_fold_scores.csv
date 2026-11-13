@@ -1,0 +1,361 @@
+representation,subject,fold,selector,model,original_full_validation_macro_f1
+handcrafted,1,1,MI,SVM,0.3116883116883117
+handcrafted,1,1,MI,LDA,0.4212121212121212
+handcrafted,1,1,MI,Decision Tree,0.23174603174603173
+handcrafted,1,1,MI,XGBoost,0.13398692810457516
+handcrafted,1,1,F-test,SVM,0.19163292847503374
+handcrafted,1,1,F-test,LDA,0.38888888888888884
+handcrafted,1,1,F-test,Decision Tree,0.24444444444444446
+handcrafted,1,1,F-test,XGBoost,0.31131831131831134
+handcrafted,1,2,MI,SVM,0.2333333333333333
+handcrafted,1,2,MI,LDA,0.2698412698412698
+handcrafted,1,2,MI,Decision Tree,0.14671717171717172
+handcrafted,1,2,MI,XGBoost,0.13095238095238096
+handcrafted,1,2,F-test,SVM,0.3323232323232323
+handcrafted,1,2,F-test,LDA,0.19163292847503374
+handcrafted,1,2,F-test,Decision Tree,0.044444444444444446
+handcrafted,1,2,F-test,XGBoost,0.0784313725490196
+handcrafted,1,3,MI,SVM,0.10526315789473684
+handcrafted,1,3,MI,LDA,0.2601010101010101
+handcrafted,1,3,MI,Decision Tree,0.21850613154960982
+handcrafted,1,3,MI,XGBoost,0.15468409586056645
+handcrafted,1,3,F-test,SVM,0.2333333333333333
+handcrafted,1,3,F-test,LDA,0.3641636141636142
+handcrafted,1,3,F-test,Decision Tree,0.18333333333333335
+handcrafted,1,3,F-test,XGBoost,0.30536130536130535
+handcrafted,3,1,MI,SVM,0.4901960784313726
+handcrafted,3,1,MI,LDA,0.4175465057817999
+handcrafted,3,1,MI,Decision Tree,0.43121693121693117
+handcrafted,3,1,MI,XGBoost,0.6094017094017095
+handcrafted,3,1,F-test,SVM,0.47450980392156855
+handcrafted,3,1,F-test,LDA,0.5557644110275689
+handcrafted,3,1,F-test,Decision Tree,0.28083028083028083
+handcrafted,3,1,F-test,XGBoost,0.37789661319073087
+handcrafted,3,2,MI,SVM,0.3333333333333333
+handcrafted,3,2,MI,LDA,0.21710526315789472
+handcrafted,3,2,MI,Decision Tree,0.24074074074074073
+handcrafted,3,2,MI,XGBoost,0.2349206349206349
+handcrafted,3,2,F-test,SVM,0.2349206349206349
+handcrafted,3,2,F-test,LDA,0.33968253968253964
+handcrafted,3,2,F-test,Decision Tree,0.3
+handcrafted,3,2,F-test,XGBoost,0.2738095238095238
+handcrafted,3,3,MI,SVM,0.36410256410256414
+handcrafted,3,3,MI,LDA,0.49831649831649827
+handcrafted,3,3,MI,Decision Tree,0.5130249867091973
+handcrafted,3,3,MI,XGBoost,0.4814814814814814
+handcrafted,3,3,F-test,SVM,0.34466936572199725
+handcrafted,3,3,F-test,LDA,0.38232323232323234
+handcrafted,3,3,F-test,Decision Tree,0.20512820512820515
+handcrafted,3,3,F-test,XGBoost,0.24848484848484845
+handcrafted,5,1,MI,SVM,0.545751633986928
+handcrafted,5,1,MI,LDA,0.5067251461988304
+handcrafted,5,1,MI,Decision Tree,0.3
+handcrafted,5,1,MI,XGBoost,0.5888888888888889
+handcrafted,5,1,F-test,SVM,0.33730158730158727
+handcrafted,5,1,F-test,LDA,0.37373737373737376
+handcrafted,5,1,F-test,Decision Tree,0.3
+handcrafted,5,1,F-test,XGBoost,0.41269841269841273
+handcrafted,5,2,MI,SVM,0.30864197530864196
+handcrafted,5,2,MI,LDA,0.3849206349206349
+handcrafted,5,2,MI,Decision Tree,0.26666666666666666
+handcrafted,5,2,MI,XGBoost,0.28205128205128205
+handcrafted,5,2,F-test,SVM,0.38888888888888884
+handcrafted,5,2,F-test,LDA,0.32051282051282054
+handcrafted,5,2,F-test,Decision Tree,0.2871794871794872
+handcrafted,5,2,F-test,XGBoost,0.23950617283950618
+handcrafted,5,3,MI,SVM,0.15873015873015872
+handcrafted,5,3,MI,LDA,0.3348873348873349
+handcrafted,5,3,MI,Decision Tree,0.31257309941520467
+handcrafted,5,3,MI,XGBoost,0.4084249084249085
+handcrafted,5,3,F-test,SVM,0.47222222222222215
+handcrafted,5,3,F-test,LDA,0.24726254138018847
+handcrafted,5,3,F-test,Decision Tree,0.31257309941520467
+handcrafted,5,3,F-test,XGBoost,0.5923809523809523
+handcrafted,7,1,MI,SVM,0.24761904761904763
+handcrafted,7,1,MI,LDA,0.2352941176470588
+handcrafted,7,1,MI,Decision Tree,0.2698412698412698
+handcrafted,7,1,MI,XGBoost,0.21212121212121213
+handcrafted,7,1,F-test,SVM,0.24242424242424243
+handcrafted,7,1,F-test,LDA,0.17254901960784316
+handcrafted,7,1,F-test,Decision Tree,0.3235294117647059
+handcrafted,7,1,F-test,XGBoost,0.34949494949494947
+handcrafted,7,2,MI,SVM,0.37606837606837606
+handcrafted,7,2,MI,LDA,0.4317460317460317
+handcrafted,7,2,MI,Decision Tree,0.25210084033613445
+handcrafted,7,2,MI,XGBoost,0.47575757575757577
+handcrafted,7,2,F-test,SVM,0.5396825396825397
+handcrafted,7,2,F-test,LDA,0.46349206349206346
+handcrafted,7,2,F-test,Decision Tree,0.4360902255639097
+handcrafted,7,2,F-test,XGBoost,0.6699604743083004
+handcrafted,7,3,MI,SVM,0.3666666666666667
+handcrafted,7,3,MI,LDA,0.27149321266968324
+handcrafted,7,3,MI,Decision Tree,0.3666666666666667
+handcrafted,7,3,MI,XGBoost,0.23214285714285712
+handcrafted,7,3,F-test,SVM,0.37684537684537683
+handcrafted,7,3,F-test,LDA,0.47399267399267403
+handcrafted,7,3,F-test,Decision Tree,0.2962962962962963
+handcrafted,7,3,F-test,XGBoost,0.27884615384615385
+handcrafted,9,1,MI,SVM,0.39035087719298245
+handcrafted,9,1,MI,LDA,0.26495726495726496
+handcrafted,9,1,MI,Decision Tree,0.3347985347985348
+handcrafted,9,1,MI,XGBoost,0.25098039215686274
+handcrafted,9,1,F-test,SVM,0.3703703703703704
+handcrafted,9,1,F-test,LDA,0.3270487682252388
+handcrafted,9,1,F-test,Decision Tree,0.33903133903133903
+handcrafted,9,1,F-test,XGBoost,0.49603174603174605
+handcrafted,9,2,MI,SVM,0.21505376344086022
+handcrafted,9,2,MI,LDA,0.2619047619047619
+handcrafted,9,2,MI,Decision Tree,0.33730158730158727
+handcrafted,9,2,MI,XGBoost,0.19047619047619047
+handcrafted,9,2,F-test,SVM,0.34188034188034183
+handcrafted,9,2,F-test,LDA,0.3511111111111111
+handcrafted,9,2,F-test,Decision Tree,0.2896825396825397
+handcrafted,9,2,F-test,XGBoost,0.3054626532887403
+handcrafted,9,3,MI,SVM,0.3146853146853147
+handcrafted,9,3,MI,LDA,0.2772727272727273
+handcrafted,9,3,MI,Decision Tree,0.3790849673202614
+handcrafted,9,3,MI,XGBoost,0.3747412008281574
+handcrafted,9,3,F-test,SVM,0.3055555555555555
+handcrafted,9,3,F-test,LDA,0.20130718954248364
+handcrafted,9,3,F-test,Decision Tree,0.35309617918313574
+handcrafted,9,3,F-test,XGBoost,0.35653235653235654
+handcrafted,11,1,MI,SVM,0.4279202279202279
+handcrafted,11,1,MI,LDA,0.4351851851851852
+handcrafted,11,1,MI,Decision Tree,0.3761904761904762
+handcrafted,11,1,MI,XGBoost,0.35384615384615387
+handcrafted,11,1,F-test,SVM,0.3238095238095238
+handcrafted,11,1,F-test,LDA,0.4761904761904762
+handcrafted,11,1,F-test,Decision Tree,0.36032594856124267
+handcrafted,11,1,F-test,XGBoost,0.4271929824561404
+handcrafted,11,2,MI,SVM,0.3824175824175824
+handcrafted,11,2,MI,LDA,0.33797313797313794
+handcrafted,11,2,MI,Decision Tree,0.39351851851851855
+handcrafted,11,2,MI,XGBoost,0.3333333333333333
+handcrafted,11,2,F-test,SVM,0.4230769230769231
+handcrafted,11,2,F-test,LDA,0.2884615384615385
+handcrafted,11,2,F-test,Decision Tree,0.3605889724310776
+handcrafted,11,2,F-test,XGBoost,0.23809523809523805
+handcrafted,11,3,MI,SVM,0.42857142857142855
+handcrafted,11,3,MI,LDA,0.37875457875457874
+handcrafted,11,3,MI,Decision Tree,0.2692307692307692
+handcrafted,11,3,MI,XGBoost,0.3961352657004831
+handcrafted,11,3,F-test,SVM,0.42933537051184106
+handcrafted,11,3,F-test,LDA,0.30291603821015584
+handcrafted,11,3,F-test,Decision Tree,0.38260432378079434
+handcrafted,11,3,F-test,XGBoost,0.25651249335459864
+handcrafted,13,1,MI,SVM,0.30158730158730157
+handcrafted,13,1,MI,LDA,0.3619047619047619
+handcrafted,13,1,MI,Decision Tree,0.25
+handcrafted,13,1,MI,XGBoost,0.3099128540305011
+handcrafted,13,1,F-test,SVM,0.3878787878787879
+handcrafted,13,1,F-test,LDA,0.3055555555555556
+handcrafted,13,1,F-test,Decision Tree,0.28502415458937197
+handcrafted,13,1,F-test,XGBoost,0.16541353383458646
+handcrafted,13,2,MI,SVM,0.43121693121693117
+handcrafted,13,2,MI,LDA,0.49444444444444446
+handcrafted,13,2,MI,Decision Tree,0.34683794466403167
+handcrafted,13,2,MI,XGBoost,0.41798941798941797
+handcrafted,13,2,F-test,SVM,0.4915084915084915
+handcrafted,13,2,F-test,LDA,0.4666666666666666
+handcrafted,13,2,F-test,Decision Tree,0.37962037962037964
+handcrafted,13,2,F-test,XGBoost,0.4915084915084915
+handcrafted,13,3,MI,SVM,0.2222222222222222
+handcrafted,13,3,MI,LDA,0.16
+handcrafted,13,3,MI,Decision Tree,0.21645021645021645
+handcrafted,13,3,MI,XGBoost,0.2579979360165119
+handcrafted,13,3,F-test,SVM,0.3246753246753247
+handcrafted,13,3,F-test,LDA,0.22051282051282053
+handcrafted,13,3,F-test,Decision Tree,0.2206060606060606
+handcrafted,13,3,F-test,XGBoost,0.21666666666666667
+handcrafted,15,1,MI,SVM,0.14492753623188406
+handcrafted,15,1,MI,LDA,0.3444444444444444
+handcrafted,15,1,MI,Decision Tree,0.3476608187134502
+handcrafted,15,1,MI,XGBoost,0.21118012422360247
+handcrafted,15,1,F-test,SVM,0.344988344988345
+handcrafted,15,1,F-test,LDA,0.41269841269841273
+handcrafted,15,1,F-test,Decision Tree,0.3649810801513588
+handcrafted,15,1,F-test,XGBoost,0.38425925925925924
+handcrafted,15,2,MI,SVM,0.22994652406417113
+handcrafted,15,2,MI,LDA,0.37333333333333335
+handcrafted,15,2,MI,Decision Tree,0.4748584748584748
+handcrafted,15,2,MI,XGBoost,0.3072463768115942
+handcrafted,15,2,F-test,SVM,0.3333333333333333
+handcrafted,15,2,F-test,LDA,0.34949494949494947
+handcrafted,15,2,F-test,Decision Tree,0.3853174603174603
+handcrafted,15,2,F-test,XGBoost,0.38067632850241545
+handcrafted,15,3,MI,SVM,0.3800186741363212
+handcrafted,15,3,MI,LDA,0.2920634920634921
+handcrafted,15,3,MI,Decision Tree,0.23809523809523805
+handcrafted,15,3,MI,XGBoost,0.20526315789473681
+handcrafted,15,3,F-test,SVM,0.3800186741363212
+handcrafted,15,3,F-test,LDA,0.2836052836052836
+handcrafted,15,3,F-test,Decision Tree,0.23809523809523805
+handcrafted,15,3,F-test,XGBoost,0.20526315789473681
+handcrafted,17,1,MI,SVM,0.4871794871794872
+handcrafted,17,1,MI,LDA,0.1722222222222222
+handcrafted,17,1,MI,Decision Tree,0.46717817561807334
+handcrafted,17,1,MI,XGBoost,0.33868092691622104
+handcrafted,17,1,F-test,SVM,0.45714285714285713
+handcrafted,17,1,F-test,LDA,0.2738095238095238
+handcrafted,17,1,F-test,Decision Tree,0.4343434343434343
+handcrafted,17,1,F-test,XGBoost,0.4444444444444444
+handcrafted,17,2,MI,SVM,0.34829059829059833
+handcrafted,17,2,MI,LDA,0.3156565656565657
+handcrafted,17,2,MI,Decision Tree,0.2675026123301985
+handcrafted,17,2,MI,XGBoost,0.4483333333333333
+handcrafted,17,2,F-test,SVM,0.4246913580246914
+handcrafted,17,2,F-test,LDA,0.31347962382445144
+handcrafted,17,2,F-test,Decision Tree,0.2528735632183908
+handcrafted,17,2,F-test,XGBoost,0.39730639730639733
+handcrafted,17,3,MI,SVM,0.48188405797101447
+handcrafted,17,3,MI,LDA,0.443859649122807
+handcrafted,17,3,MI,Decision Tree,0.5140350877192982
+handcrafted,17,3,MI,XGBoost,0.4761904761904761
+handcrafted,17,3,F-test,SVM,0.34035087719298246
+handcrafted,17,3,F-test,LDA,0.4761904761904761
+handcrafted,17,3,F-test,Decision Tree,0.37566137566137564
+handcrafted,17,3,F-test,XGBoost,0.37789661319073087
+handcrafted,19,1,MI,SVM,0.1878787878787879
+handcrafted,19,1,MI,LDA,0.3347985347985348
+handcrafted,19,1,MI,Decision Tree,0.3206423206423206
+handcrafted,19,1,MI,XGBoost,0.3111111111111111
+handcrafted,19,1,F-test,SVM,0.36762360446570974
+handcrafted,19,1,F-test,LDA,0.42686202686202684
+handcrafted,19,1,F-test,Decision Tree,0.240824534942182
+handcrafted,19,1,F-test,XGBoost,0.18253968253968253
+handcrafted,19,2,MI,SVM,0.28351648351648356
+handcrafted,19,2,MI,LDA,0.43681917211328986
+handcrafted,19,2,MI,Decision Tree,0.05555555555555555
+handcrafted,19,2,MI,XGBoost,0.24273504273504276
+handcrafted,19,2,F-test,SVM,0.26666666666666666
+handcrafted,19,2,F-test,LDA,0.3494949494949495
+handcrafted,19,2,F-test,Decision Tree,0.0
+handcrafted,19,2,F-test,XGBoost,0.32287581699346407
+handcrafted,19,3,MI,SVM,0.1214574898785425
+handcrafted,19,3,MI,LDA,0.13333333333333333
+handcrafted,19,3,MI,Decision Tree,0.16526610644257703
+handcrafted,19,3,MI,XGBoost,0.15654520917678813
+handcrafted,19,3,F-test,SVM,0.07017543859649122
+handcrafted,19,3,F-test,LDA,0.08333333333333333
+handcrafted,19,3,F-test,Decision Tree,0.16526610644257703
+handcrafted,19,3,F-test,XGBoost,0.25098039215686274
+handcrafted,21,1,MI,SVM,0.4743230625583566
+handcrafted,21,1,MI,LDA,0.5920192638458892
+handcrafted,21,1,MI,Decision Tree,0.4357864357864358
+handcrafted,21,1,MI,XGBoost,0.35897435897435903
+handcrafted,21,1,F-test,SVM,0.5352941176470588
+handcrafted,21,1,F-test,LDA,0.5048732943469786
+handcrafted,21,1,F-test,Decision Tree,0.6565656565656566
+handcrafted,21,1,F-test,XGBoost,0.6547619047619048
+handcrafted,21,2,MI,SVM,0.3606237816764133
+handcrafted,21,2,MI,LDA,0.34422657952069713
+handcrafted,21,2,MI,Decision Tree,0.5527777777777777
+handcrafted,21,2,MI,XGBoost,0.35648148148148145
+handcrafted,21,2,F-test,SVM,0.39814814814814814
+handcrafted,21,2,F-test,LDA,0.4362745098039216
+handcrafted,21,2,F-test,Decision Tree,0.4074074074074074
+handcrafted,21,2,F-test,XGBoost,0.4002489884842826
+handcrafted,21,3,MI,SVM,0.27994227994227994
+handcrafted,21,3,MI,LDA,0.3470899470899471
+handcrafted,21,3,MI,Decision Tree,0.37789661319073087
+handcrafted,21,3,MI,XGBoost,0.3439153439153439
+handcrafted,21,3,F-test,SVM,0.2698412698412698
+handcrafted,21,3,F-test,LDA,0.35185185185185186
+handcrafted,21,3,F-test,Decision Tree,0.3439153439153439
+handcrafted,21,3,F-test,XGBoost,0.3439153439153439
+handcrafted,23,1,MI,SVM,0.15384615384615385
+handcrafted,23,1,MI,LDA,0.15384615384615385
+handcrafted,23,1,MI,Decision Tree,0.1111111111111111
+handcrafted,23,1,MI,XGBoost,0.3416666666666666
+handcrafted,23,1,F-test,SVM,0.14646464646464644
+handcrafted,23,1,F-test,LDA,0.3115942028985507
+handcrafted,23,1,F-test,Decision Tree,0.1111111111111111
+handcrafted,23,1,F-test,XGBoost,0.1214574898785425
+handcrafted,23,2,MI,SVM,0.5509803921568628
+handcrafted,23,2,MI,LDA,0.47908902691511385
+handcrafted,23,2,MI,Decision Tree,0.3833333333333333
+handcrafted,23,2,MI,XGBoost,0.5821428571428572
+handcrafted,23,2,F-test,SVM,0.4901960784313726
+handcrafted,23,2,F-test,LDA,0.46274509803921565
+handcrafted,23,2,F-test,Decision Tree,0.5888888888888889
+handcrafted,23,2,F-test,XGBoost,0.41052631578947363
+handcrafted,23,3,MI,SVM,0.4444444444444444
+handcrafted,23,3,MI,LDA,0.5039682539682541
+handcrafted,23,3,MI,Decision Tree,0.5044858523119392
+handcrafted,23,3,MI,XGBoost,0.34848484848484845
+handcrafted,23,3,F-test,SVM,0.4071428571428572
+handcrafted,23,3,F-test,LDA,0.3255360623781676
+handcrafted,23,3,F-test,Decision Tree,0.3956043956043956
+handcrafted,23,3,F-test,XGBoost,0.3814814814814815
+handcrafted,27,1,MI,SVM,0.48181818181818176
+handcrafted,27,1,MI,LDA,0.4218200100553042
+handcrafted,27,1,MI,Decision Tree,0.23809523809523805
+handcrafted,27,1,MI,XGBoost,0.34054834054834054
+handcrafted,27,1,F-test,SVM,0.4296128707893414
+handcrafted,27,1,F-test,LDA,0.4899470899470899
+handcrafted,27,1,F-test,Decision Tree,0.4467171717171717
+handcrafted,27,1,F-test,XGBoost,0.4739926739926739
+handcrafted,27,2,MI,SVM,0.41133603238866395
+handcrafted,27,2,MI,LDA,0.3311355311355311
+handcrafted,27,2,MI,Decision Tree,0.5185185185185185
+handcrafted,27,2,MI,XGBoost,0.27698032961190855
+handcrafted,27,2,F-test,SVM,0.2750544662309368
+handcrafted,27,2,F-test,LDA,0.19047619047619047
+handcrafted,27,2,F-test,Decision Tree,0.23828976034858387
+handcrafted,27,2,F-test,XGBoost,0.2734912146676853
+handcrafted,27,3,MI,SVM,0.38518518518518513
+handcrafted,27,3,MI,LDA,0.3099128540305011
+handcrafted,27,3,MI,Decision Tree,0.603030303030303
+handcrafted,27,3,MI,XGBoost,0.39848484848484844
+handcrafted,27,3,F-test,SVM,0.2555555555555556
+handcrafted,27,3,F-test,LDA,0.2809523809523809
+handcrafted,27,3,F-test,Decision Tree,0.35146198830409353
+handcrafted,27,3,F-test,XGBoost,0.23398692810457514
+handcrafted,29,1,MI,SVM,0.1895424836601307
+handcrafted,29,1,MI,LDA,0.21388888888888888
+handcrafted,29,1,MI,Decision Tree,0.16732026143790849
+handcrafted,29,1,MI,XGBoost,0.18596218596218597
+handcrafted,29,1,F-test,SVM,0.48412698412698413
+handcrafted,29,1,F-test,LDA,0.27499999999999997
+handcrafted,29,1,F-test,Decision Tree,0.3356643356643357
+handcrafted,29,1,F-test,XGBoost,0.14423076923076925
+handcrafted,29,2,MI,SVM,0.22377622377622378
+handcrafted,29,2,MI,LDA,0.18207282913165265
+handcrafted,29,2,MI,Decision Tree,0.30158730158730157
+handcrafted,29,2,MI,XGBoost,0.3055555555555556
+handcrafted,29,2,F-test,SVM,0.36111111111111116
+handcrafted,29,2,F-test,LDA,0.34848484848484845
+handcrafted,29,2,F-test,Decision Tree,0.41333333333333333
+handcrafted,29,2,F-test,XGBoost,0.3762626262626263
+handcrafted,29,3,MI,SVM,0.3247863247863248
+handcrafted,29,3,MI,LDA,0.34057971014492755
+handcrafted,29,3,MI,Decision Tree,0.19607843137254902
+handcrafted,29,3,MI,XGBoost,0.20952380952380953
+handcrafted,29,3,F-test,SVM,0.2818627450980392
+handcrafted,29,3,F-test,LDA,0.47973856209150334
+handcrafted,29,3,F-test,Decision Tree,0.2352941176470588
+handcrafted,29,3,F-test,XGBoost,0.38539238539238535
+handcrafted,31,1,MI,SVM,0.35104669887278583
+handcrafted,31,1,MI,LDA,0.28484848484848485
+handcrafted,31,1,MI,Decision Tree,0.22698412698412698
+handcrafted,31,1,MI,XGBoost,0.31746031746031744
+handcrafted,31,1,F-test,SVM,0.3301282051282051
+handcrafted,31,1,F-test,LDA,0.27
+handcrafted,31,1,F-test,Decision Tree,0.28502415458937197
+handcrafted,31,1,F-test,XGBoost,0.34259259259259256
+handcrafted,31,2,MI,SVM,0.4170692431561997
+handcrafted,31,2,MI,LDA,0.24019607843137256
+handcrafted,31,2,MI,Decision Tree,0.3142639206712433
+handcrafted,31,2,MI,XGBoost,0.2384313725490196
+handcrafted,31,2,F-test,SVM,0.34259259259259256
+handcrafted,31,2,F-test,LDA,0.25396825396825395
+handcrafted,31,2,F-test,Decision Tree,0.4246913580246914
+handcrafted,31,2,F-test,XGBoost,0.26556776556776557
+handcrafted,31,3,MI,SVM,0.25641025641025644
+handcrafted,31,3,MI,LDA,0.2833333333333334
+handcrafted,31,3,MI,Decision Tree,0.2530864197530864
+handcrafted,31,3,MI,XGBoost,0.28190476190476194
+handcrafted,31,3,F-test,SVM,0.32976827094474154
+handcrafted,31,3,F-test,LDA,0.2833333333333334
+handcrafted,31,3,F-test,Decision Tree,0.1728395061728395
+handcrafted,31,3,F-test,XGBoost,0.1728395061728395

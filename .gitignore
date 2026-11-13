@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.notebook_deps/
+SingLEM/
+LMB_05_HW1.zip
+*.mat
+*.pt
+*.pth

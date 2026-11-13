@@ -1,0 +1,97 @@
+representation,subject,fold,selector,model,policy,segment,trial,truth,prediction
+handcrafted,1,1,MI,SVM,include,15,6,0,-1
+handcrafted,1,1,MI,SVM,include,16,6,0,-1
+handcrafted,1,1,MI,SVM,include,17,6,0,-1
+handcrafted,1,1,MI,SVM,exclude,15,6,0,-1
+handcrafted,1,1,MI,SVM,exclude,16,6,0,-1
+handcrafted,1,1,MI,SVM,exclude,17,6,0,-1
+handcrafted,1,1,MI,LDA,include,15,6,0,0
+handcrafted,1,1,MI,LDA,include,16,6,0,0
+handcrafted,1,1,MI,LDA,include,17,6,0,0
+handcrafted,1,1,MI,LDA,exclude,15,6,0,0
+handcrafted,1,1,MI,LDA,exclude,16,6,0,0
+handcrafted,1,1,MI,LDA,exclude,17,6,0,0
+handcrafted,1,1,MI,Decision Tree,include,15,6,0,1
+handcrafted,1,1,MI,Decision Tree,include,16,6,0,1
+handcrafted,1,1,MI,Decision Tree,include,17,6,0,1
+handcrafted,1,1,MI,Decision Tree,exclude,15,6,0,1
+handcrafted,1,1,MI,Decision Tree,exclude,16,6,0,1
+handcrafted,1,1,MI,Decision Tree,exclude,17,6,0,1
+handcrafted,1,1,MI,XGBoost,include,15,6,0,1
+handcrafted,1,1,MI,XGBoost,include,16,6,0,-1
+handcrafted,1,1,MI,XGBoost,include,17,6,0,-1
+handcrafted,1,1,MI,XGBoost,exclude,15,6,0,1
+handcrafted,1,1,MI,XGBoost,exclude,16,6,0,-1
+handcrafted,1,1,MI,XGBoost,exclude,17,6,0,-1
+handcrafted,1,1,F-test,SVM,include,15,6,0,-1
+handcrafted,1,1,F-test,SVM,include,16,6,0,-1
+handcrafted,1,1,F-test,SVM,include,17,6,0,-1
+handcrafted,1,1,F-test,SVM,exclude,15,6,0,-1
+handcrafted,1,1,F-test,SVM,exclude,16,6,0,-1
+handcrafted,1,1,F-test,SVM,exclude,17,6,0,-1
+handcrafted,1,1,F-test,LDA,include,15,6,0,0
+handcrafted,1,1,F-test,LDA,include,16,6,0,0
+handcrafted,1,1,F-test,LDA,include,17,6,0,0
+handcrafted,1,1,F-test,LDA,exclude,15,6,0,0
+handcrafted,1,1,F-test,LDA,exclude,16,6,0,0
+handcrafted,1,1,F-test,LDA,exclude,17,6,0,0
+handcrafted,1,1,F-test,Decision Tree,include,15,6,0,1
+handcrafted,1,1,F-test,Decision Tree,include,16,6,0,1
+handcrafted,1,1,F-test,Decision Tree,include,17,6,0,1
+handcrafted,1,1,F-test,Decision Tree,exclude,15,6,0,1
+handcrafted,1,1,F-test,Decision Tree,exclude,16,6,0,1
+handcrafted,1,1,F-test,Decision Tree,exclude,17,6,0,1
+handcrafted,1,1,F-test,XGBoost,include,15,6,0,1
+handcrafted,1,1,F-test,XGBoost,include,16,6,0,-1
+handcrafted,1,1,F-test,XGBoost,include,17,6,0,0
+handcrafted,1,1,F-test,XGBoost,exclude,15,6,0,1
+handcrafted,1,1,F-test,XGBoost,exclude,16,6,0,-1
+handcrafted,1,1,F-test,XGBoost,exclude,17,6,0,0
+handcrafted,7,1,MI,SVM,include,60,21,1,1
+handcrafted,7,1,MI,SVM,include,61,21,1,1
+handcrafted,7,1,MI,SVM,include,62,21,1,1
+handcrafted,7,1,MI,SVM,exclude,60,21,1,1
+handcrafted,7,1,MI,SVM,exclude,61,21,1,1
+handcrafted,7,1,MI,SVM,exclude,62,21,1,1
+handcrafted,7,1,MI,LDA,include,60,21,1,1
+handcrafted,7,1,MI,LDA,include,61,21,1,1
+handcrafted,7,1,MI,LDA,include,62,21,1,1
+handcrafted,7,1,MI,LDA,exclude,60,21,1,1
+handcrafted,7,1,MI,LDA,exclude,61,21,1,1
+handcrafted,7,1,MI,LDA,exclude,62,21,1,1
+handcrafted,7,1,MI,Decision Tree,include,60,21,1,1
+handcrafted,7,1,MI,Decision Tree,include,61,21,1,1
+handcrafted,7,1,MI,Decision Tree,include,62,21,1,1
+handcrafted,7,1,MI,Decision Tree,exclude,60,21,1,1
+handcrafted,7,1,MI,Decision Tree,exclude,61,21,1,1
+handcrafted,7,1,MI,Decision Tree,exclude,62,21,1,1
+handcrafted,7,1,MI,XGBoost,include,60,21,1,1
+handcrafted,7,1,MI,XGBoost,include,61,21,1,1
+handcrafted,7,1,MI,XGBoost,include,62,21,1,1
+handcrafted,7,1,MI,XGBoost,exclude,60,21,1,1
+handcrafted,7,1,MI,XGBoost,exclude,61,21,1,1
+handcrafted,7,1,MI,XGBoost,exclude,62,21,1,1
+handcrafted,7,1,F-test,SVM,include,60,21,1,1
+handcrafted,7,1,F-test,SVM,include,61,21,1,1
+handcrafted,7,1,F-test,SVM,include,62,21,1,1
+handcrafted,7,1,F-test,SVM,exclude,60,21,1,1
+handcrafted,7,1,F-test,SVM,exclude,61,21,1,1
+handcrafted,7,1,F-test,SVM,exclude,62,21,1,1
+handcrafted,7,1,F-test,LDA,include,60,21,1,1
+handcrafted,7,1,F-test,LDA,include,61,21,1,1
+handcrafted,7,1,F-test,LDA,include,62,21,1,1
+handcrafted,7,1,F-test,LDA,exclude,60,21,1,1
+handcrafted,7,1,F-test,LDA,exclude,61,21,1,1
+handcrafted,7,1,F-test,LDA,exclude,62,21,1,1
+handcrafted,7,1,F-test,Decision Tree,include,60,21,1,1
+handcrafted,7,1,F-test,Decision Tree,include,61,21,1,0
+handcrafted,7,1,F-test,Decision Tree,include,62,21,1,0
+handcrafted,7,1,F-test,Decision Tree,exclude,60,21,1,1
+handcrafted,7,1,F-test,Decision Tree,exclude,61,21,1,0
+handcrafted,7,1,F-test,Decision Tree,exclude,62,21,1,0
+handcrafted,7,1,F-test,XGBoost,include,60,21,1,1
+handcrafted,7,1,F-test,XGBoost,include,61,21,1,1
+handcrafted,7,1,F-test,XGBoost,include,62,21,1,1
+handcrafted,7,1,F-test,XGBoost,exclude,60,21,1,1
+handcrafted,7,1,F-test,XGBoost,exclude,61,21,1,1
+handcrafted,7,1,F-test,XGBoost,exclude,62,21,1,1

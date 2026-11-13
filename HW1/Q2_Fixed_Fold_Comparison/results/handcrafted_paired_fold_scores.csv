@@ -1,0 +1,721 @@
+representation,subject,fold,selector,model,policy,macro_f1,common_validation_windows,training_windows,fit_reused
+handcrafted,1,1,MI,SVM,include,0.3434343434343434,18,42,False
+handcrafted,1,1,MI,SVM,exclude,0.3434343434343434,18,42,True
+handcrafted,1,1,MI,LDA,include,0.2878787878787879,18,42,False
+handcrafted,1,1,MI,LDA,exclude,0.2878787878787879,18,42,True
+handcrafted,1,1,MI,Decision Tree,include,0.25396825396825395,18,42,False
+handcrafted,1,1,MI,Decision Tree,exclude,0.25396825396825395,18,42,True
+handcrafted,1,1,MI,XGBoost,include,0.1494949494949495,18,42,False
+handcrafted,1,1,MI,XGBoost,exclude,0.1494949494949495,18,42,True
+handcrafted,1,1,F-test,SVM,include,0.21794871794871795,18,42,False
+handcrafted,1,1,F-test,SVM,exclude,0.21794871794871795,18,42,True
+handcrafted,1,1,F-test,LDA,include,0.27777777777777773,18,42,False
+handcrafted,1,1,F-test,LDA,exclude,0.27777777777777773,18,42,True
+handcrafted,1,1,F-test,Decision Tree,include,0.26666666666666666,18,42,False
+handcrafted,1,1,F-test,Decision Tree,exclude,0.26666666666666666,18,42,True
+handcrafted,1,1,F-test,XGBoost,include,0.2679738562091503,18,42,False
+handcrafted,1,1,F-test,XGBoost,exclude,0.2679738562091503,18,42,True
+handcrafted,1,2,MI,SVM,include,0.2333333333333333,21,42,False
+handcrafted,1,2,MI,SVM,exclude,0.35912698412698413,21,39,False
+handcrafted,1,2,MI,LDA,include,0.2698412698412698,21,42,False
+handcrafted,1,2,MI,LDA,exclude,0.1955128205128205,21,39,False
+handcrafted,1,2,MI,Decision Tree,include,0.14671717171717172,21,42,False
+handcrafted,1,2,MI,Decision Tree,exclude,0.3439153439153439,21,39,False
+handcrafted,1,2,MI,XGBoost,include,0.13095238095238096,21,42,False
+handcrafted,1,2,MI,XGBoost,exclude,0.13055555555555556,21,39,False
+handcrafted,1,2,F-test,SVM,include,0.3323232323232323,21,42,False
+handcrafted,1,2,F-test,SVM,exclude,0.2962962962962963,21,39,False
+handcrafted,1,2,F-test,LDA,include,0.19163292847503374,21,42,False
+handcrafted,1,2,F-test,LDA,exclude,0.2309941520467836,21,39,False
+handcrafted,1,2,F-test,Decision Tree,include,0.044444444444444446,21,42,False
+handcrafted,1,2,F-test,Decision Tree,exclude,0.5177015250544662,21,39,False
+handcrafted,1,2,F-test,XGBoost,include,0.0784313725490196,21,42,False
+handcrafted,1,2,F-test,XGBoost,exclude,0.2037037037037037,21,39,False
+handcrafted,1,3,MI,SVM,include,0.10526315789473684,21,42,False
+handcrafted,1,3,MI,SVM,exclude,0.1074074074074074,21,39,False
+handcrafted,1,3,MI,LDA,include,0.2601010101010101,21,42,False
+handcrafted,1,3,MI,LDA,exclude,0.2698412698412698,21,39,False
+handcrafted,1,3,MI,Decision Tree,include,0.21850613154960982,21,42,False
+handcrafted,1,3,MI,Decision Tree,exclude,0.34116059379217273,21,39,False
+handcrafted,1,3,MI,XGBoost,include,0.15468409586056645,21,42,False
+handcrafted,1,3,MI,XGBoost,exclude,0.15757575757575756,21,39,False
+handcrafted,1,3,F-test,SVM,include,0.2333333333333333,21,42,False
+handcrafted,1,3,F-test,SVM,exclude,0.34057971014492755,21,39,False
+handcrafted,1,3,F-test,LDA,include,0.3641636141636142,21,42,False
+handcrafted,1,3,F-test,LDA,exclude,0.23809523809523805,21,39,False
+handcrafted,1,3,F-test,Decision Tree,include,0.18333333333333335,21,42,False
+handcrafted,1,3,F-test,Decision Tree,exclude,0.35714285714285715,21,39,False
+handcrafted,1,3,F-test,XGBoost,include,0.30536130536130535,21,42,False
+handcrafted,1,3,F-test,XGBoost,exclude,0.31486291486291484,21,39,False
+handcrafted,3,1,MI,SVM,include,0.4901960784313726,21,42,False
+handcrafted,3,1,MI,SVM,exclude,0.4901960784313726,21,42,True
+handcrafted,3,1,MI,LDA,include,0.4175465057817999,21,42,False
+handcrafted,3,1,MI,LDA,exclude,0.4175465057817999,21,42,True
+handcrafted,3,1,MI,Decision Tree,include,0.43121693121693117,21,42,False
+handcrafted,3,1,MI,Decision Tree,exclude,0.43121693121693117,21,42,True
+handcrafted,3,1,MI,XGBoost,include,0.6094017094017095,21,42,False
+handcrafted,3,1,MI,XGBoost,exclude,0.6094017094017095,21,42,True
+handcrafted,3,1,F-test,SVM,include,0.47450980392156855,21,42,False
+handcrafted,3,1,F-test,SVM,exclude,0.47450980392156855,21,42,True
+handcrafted,3,1,F-test,LDA,include,0.5557644110275689,21,42,False
+handcrafted,3,1,F-test,LDA,exclude,0.5557644110275689,21,42,True
+handcrafted,3,1,F-test,Decision Tree,include,0.28083028083028083,21,42,False
+handcrafted,3,1,F-test,Decision Tree,exclude,0.28083028083028083,21,42,True
+handcrafted,3,1,F-test,XGBoost,include,0.37789661319073087,21,42,False
+handcrafted,3,1,F-test,XGBoost,exclude,0.37789661319073087,21,42,True
+handcrafted,3,2,MI,SVM,include,0.3333333333333333,21,42,False
+handcrafted,3,2,MI,SVM,exclude,0.3333333333333333,21,42,True
+handcrafted,3,2,MI,LDA,include,0.21710526315789472,21,42,False
+handcrafted,3,2,MI,LDA,exclude,0.21710526315789472,21,42,True
+handcrafted,3,2,MI,Decision Tree,include,0.24074074074074073,21,42,False
+handcrafted,3,2,MI,Decision Tree,exclude,0.24074074074074073,21,42,True
+handcrafted,3,2,MI,XGBoost,include,0.2349206349206349,21,42,False
+handcrafted,3,2,MI,XGBoost,exclude,0.2349206349206349,21,42,True
+handcrafted,3,2,F-test,SVM,include,0.2349206349206349,21,42,False
+handcrafted,3,2,F-test,SVM,exclude,0.2349206349206349,21,42,True
+handcrafted,3,2,F-test,LDA,include,0.33968253968253964,21,42,False
+handcrafted,3,2,F-test,LDA,exclude,0.33968253968253964,21,42,True
+handcrafted,3,2,F-test,Decision Tree,include,0.3,21,42,False
+handcrafted,3,2,F-test,Decision Tree,exclude,0.3,21,42,True
+handcrafted,3,2,F-test,XGBoost,include,0.2738095238095238,21,42,False
+handcrafted,3,2,F-test,XGBoost,exclude,0.2738095238095238,21,42,True
+handcrafted,3,3,MI,SVM,include,0.36410256410256414,21,42,False
+handcrafted,3,3,MI,SVM,exclude,0.36410256410256414,21,42,True
+handcrafted,3,3,MI,LDA,include,0.49831649831649827,21,42,False
+handcrafted,3,3,MI,LDA,exclude,0.49831649831649827,21,42,True
+handcrafted,3,3,MI,Decision Tree,include,0.5130249867091973,21,42,False
+handcrafted,3,3,MI,Decision Tree,exclude,0.5130249867091973,21,42,True
+handcrafted,3,3,MI,XGBoost,include,0.4814814814814814,21,42,False
+handcrafted,3,3,MI,XGBoost,exclude,0.4814814814814814,21,42,True
+handcrafted,3,3,F-test,SVM,include,0.34466936572199725,21,42,False
+handcrafted,3,3,F-test,SVM,exclude,0.34466936572199725,21,42,True
+handcrafted,3,3,F-test,LDA,include,0.38232323232323234,21,42,False
+handcrafted,3,3,F-test,LDA,exclude,0.38232323232323234,21,42,True
+handcrafted,3,3,F-test,Decision Tree,include,0.20512820512820515,21,42,False
+handcrafted,3,3,F-test,Decision Tree,exclude,0.20512820512820515,21,42,True
+handcrafted,3,3,F-test,XGBoost,include,0.24848484848484845,21,42,False
+handcrafted,3,3,F-test,XGBoost,exclude,0.24848484848484845,21,42,True
+handcrafted,5,1,MI,SVM,include,0.545751633986928,21,42,False
+handcrafted,5,1,MI,SVM,exclude,0.545751633986928,21,42,True
+handcrafted,5,1,MI,LDA,include,0.5067251461988304,21,42,False
+handcrafted,5,1,MI,LDA,exclude,0.5067251461988304,21,42,True
+handcrafted,5,1,MI,Decision Tree,include,0.3,21,42,False
+handcrafted,5,1,MI,Decision Tree,exclude,0.3,21,42,True
+handcrafted,5,1,MI,XGBoost,include,0.5888888888888889,21,42,False
+handcrafted,5,1,MI,XGBoost,exclude,0.5888888888888889,21,42,True
+handcrafted,5,1,F-test,SVM,include,0.33730158730158727,21,42,False
+handcrafted,5,1,F-test,SVM,exclude,0.33730158730158727,21,42,True
+handcrafted,5,1,F-test,LDA,include,0.37373737373737376,21,42,False
+handcrafted,5,1,F-test,LDA,exclude,0.37373737373737376,21,42,True
+handcrafted,5,1,F-test,Decision Tree,include,0.3,21,42,False
+handcrafted,5,1,F-test,Decision Tree,exclude,0.3,21,42,True
+handcrafted,5,1,F-test,XGBoost,include,0.41269841269841273,21,42,False
+handcrafted,5,1,F-test,XGBoost,exclude,0.41269841269841273,21,42,True
+handcrafted,5,2,MI,SVM,include,0.30864197530864196,21,42,False
+handcrafted,5,2,MI,SVM,exclude,0.30864197530864196,21,42,True
+handcrafted,5,2,MI,LDA,include,0.3849206349206349,21,42,False
+handcrafted,5,2,MI,LDA,exclude,0.3849206349206349,21,42,True
+handcrafted,5,2,MI,Decision Tree,include,0.26666666666666666,21,42,False
+handcrafted,5,2,MI,Decision Tree,exclude,0.26666666666666666,21,42,True
+handcrafted,5,2,MI,XGBoost,include,0.28205128205128205,21,42,False
+handcrafted,5,2,MI,XGBoost,exclude,0.28205128205128205,21,42,True
+handcrafted,5,2,F-test,SVM,include,0.38888888888888884,21,42,False
+handcrafted,5,2,F-test,SVM,exclude,0.38888888888888884,21,42,True
+handcrafted,5,2,F-test,LDA,include,0.32051282051282054,21,42,False
+handcrafted,5,2,F-test,LDA,exclude,0.32051282051282054,21,42,True
+handcrafted,5,2,F-test,Decision Tree,include,0.2871794871794872,21,42,False
+handcrafted,5,2,F-test,Decision Tree,exclude,0.2871794871794872,21,42,True
+handcrafted,5,2,F-test,XGBoost,include,0.23950617283950618,21,42,False
+handcrafted,5,2,F-test,XGBoost,exclude,0.23950617283950618,21,42,True
+handcrafted,5,3,MI,SVM,include,0.15873015873015872,21,42,False
+handcrafted,5,3,MI,SVM,exclude,0.15873015873015872,21,42,True
+handcrafted,5,3,MI,LDA,include,0.3348873348873349,21,42,False
+handcrafted,5,3,MI,LDA,exclude,0.3348873348873349,21,42,True
+handcrafted,5,3,MI,Decision Tree,include,0.31257309941520467,21,42,False
+handcrafted,5,3,MI,Decision Tree,exclude,0.31257309941520467,21,42,True
+handcrafted,5,3,MI,XGBoost,include,0.4084249084249085,21,42,False
+handcrafted,5,3,MI,XGBoost,exclude,0.4084249084249085,21,42,True
+handcrafted,5,3,F-test,SVM,include,0.47222222222222215,21,42,False
+handcrafted,5,3,F-test,SVM,exclude,0.47222222222222215,21,42,True
+handcrafted,5,3,F-test,LDA,include,0.24726254138018847,21,42,False
+handcrafted,5,3,F-test,LDA,exclude,0.24726254138018847,21,42,True
+handcrafted,5,3,F-test,Decision Tree,include,0.31257309941520467,21,42,False
+handcrafted,5,3,F-test,Decision Tree,exclude,0.31257309941520467,21,42,True
+handcrafted,5,3,F-test,XGBoost,include,0.5923809523809523,21,42,False
+handcrafted,5,3,F-test,XGBoost,exclude,0.5923809523809523,21,42,True
+handcrafted,7,1,MI,SVM,include,0.19047619047619047,18,42,False
+handcrafted,7,1,MI,SVM,exclude,0.19047619047619047,18,42,True
+handcrafted,7,1,MI,LDA,include,0.13903743315508021,18,42,False
+handcrafted,7,1,MI,LDA,exclude,0.13903743315508021,18,42,True
+handcrafted,7,1,MI,Decision Tree,include,0.21428571428571427,18,42,False
+handcrafted,7,1,MI,Decision Tree,exclude,0.21428571428571427,18,42,True
+handcrafted,7,1,MI,XGBoost,include,0.16666666666666666,18,42,False
+handcrafted,7,1,MI,XGBoost,exclude,0.16666666666666666,18,42,True
+handcrafted,7,1,F-test,SVM,include,0.20833333333333334,18,42,False
+handcrafted,7,1,F-test,SVM,exclude,0.20833333333333334,18,42,True
+handcrafted,7,1,F-test,LDA,include,0.0392156862745098,18,42,False
+handcrafted,7,1,F-test,LDA,exclude,0.0392156862745098,18,42,True
+handcrafted,7,1,F-test,Decision Tree,include,0.3235294117647059,18,42,False
+handcrafted,7,1,F-test,Decision Tree,exclude,0.3235294117647059,18,42,True
+handcrafted,7,1,F-test,XGBoost,include,0.30505050505050507,18,42,False
+handcrafted,7,1,F-test,XGBoost,exclude,0.30505050505050507,18,42,True
+handcrafted,7,2,MI,SVM,include,0.37606837606837606,21,42,False
+handcrafted,7,2,MI,SVM,exclude,0.37121212121212127,21,39,False
+handcrafted,7,2,MI,LDA,include,0.4317460317460317,21,42,False
+handcrafted,7,2,MI,LDA,exclude,0.4166666666666667,21,39,False
+handcrafted,7,2,MI,Decision Tree,include,0.25210084033613445,21,42,False
+handcrafted,7,2,MI,Decision Tree,exclude,0.3761904761904762,21,39,False
+handcrafted,7,2,MI,XGBoost,include,0.47575757575757577,21,42,False
+handcrafted,7,2,MI,XGBoost,exclude,0.5424297924297924,21,39,False
+handcrafted,7,2,F-test,SVM,include,0.5396825396825397,21,42,False
+handcrafted,7,2,F-test,SVM,exclude,0.4275362318840579,21,39,False
+handcrafted,7,2,F-test,LDA,include,0.46349206349206346,21,42,False
+handcrafted,7,2,F-test,LDA,exclude,0.327536231884058,21,39,False
+handcrafted,7,2,F-test,Decision Tree,include,0.4360902255639097,21,42,False
+handcrafted,7,2,F-test,Decision Tree,exclude,0.3463203463203463,21,39,False
+handcrafted,7,2,F-test,XGBoost,include,0.6699604743083004,21,42,False
+handcrafted,7,2,F-test,XGBoost,exclude,0.5714285714285714,21,39,False
+handcrafted,7,3,MI,SVM,include,0.3666666666666667,21,42,False
+handcrafted,7,3,MI,SVM,exclude,0.22402159244264508,21,39,False
+handcrafted,7,3,MI,LDA,include,0.27149321266968324,21,42,False
+handcrafted,7,3,MI,LDA,exclude,0.38260432378079434,21,39,False
+handcrafted,7,3,MI,Decision Tree,include,0.3666666666666667,21,42,False
+handcrafted,7,3,MI,Decision Tree,exclude,0.26455026455026454,21,39,False
+handcrafted,7,3,MI,XGBoost,include,0.23214285714285712,21,42,False
+handcrafted,7,3,MI,XGBoost,exclude,0.2349206349206349,21,39,False
+handcrafted,7,3,F-test,SVM,include,0.37684537684537683,21,42,False
+handcrafted,7,3,F-test,SVM,exclude,0.25384615384615383,21,39,False
+handcrafted,7,3,F-test,LDA,include,0.47399267399267403,21,42,False
+handcrafted,7,3,F-test,LDA,exclude,0.38690476190476186,21,39,False
+handcrafted,7,3,F-test,Decision Tree,include,0.2962962962962963,21,42,False
+handcrafted,7,3,F-test,Decision Tree,exclude,0.3295136236312707,21,39,False
+handcrafted,7,3,F-test,XGBoost,include,0.27884615384615385,21,42,False
+handcrafted,7,3,F-test,XGBoost,exclude,0.3666666666666667,21,39,False
+handcrafted,9,1,MI,SVM,include,0.39035087719298245,21,42,False
+handcrafted,9,1,MI,SVM,exclude,0.39035087719298245,21,42,True
+handcrafted,9,1,MI,LDA,include,0.26495726495726496,21,42,False
+handcrafted,9,1,MI,LDA,exclude,0.26495726495726496,21,42,True
+handcrafted,9,1,MI,Decision Tree,include,0.3347985347985348,21,42,False
+handcrafted,9,1,MI,Decision Tree,exclude,0.3347985347985348,21,42,True
+handcrafted,9,1,MI,XGBoost,include,0.25098039215686274,21,42,False
+handcrafted,9,1,MI,XGBoost,exclude,0.25098039215686274,21,42,True
+handcrafted,9,1,F-test,SVM,include,0.3703703703703704,21,42,False
+handcrafted,9,1,F-test,SVM,exclude,0.3703703703703704,21,42,True
+handcrafted,9,1,F-test,LDA,include,0.3270487682252388,21,42,False
+handcrafted,9,1,F-test,LDA,exclude,0.3270487682252388,21,42,True
+handcrafted,9,1,F-test,Decision Tree,include,0.33903133903133903,21,42,False
+handcrafted,9,1,F-test,Decision Tree,exclude,0.33903133903133903,21,42,True
+handcrafted,9,1,F-test,XGBoost,include,0.49603174603174605,21,42,False
+handcrafted,9,1,F-test,XGBoost,exclude,0.49603174603174605,21,42,True
+handcrafted,9,2,MI,SVM,include,0.21505376344086022,21,42,False
+handcrafted,9,2,MI,SVM,exclude,0.21505376344086022,21,42,True
+handcrafted,9,2,MI,LDA,include,0.2619047619047619,21,42,False
+handcrafted,9,2,MI,LDA,exclude,0.2619047619047619,21,42,True
+handcrafted,9,2,MI,Decision Tree,include,0.33730158730158727,21,42,False
+handcrafted,9,2,MI,Decision Tree,exclude,0.33730158730158727,21,42,True
+handcrafted,9,2,MI,XGBoost,include,0.19047619047619047,21,42,False
+handcrafted,9,2,MI,XGBoost,exclude,0.19047619047619047,21,42,True
+handcrafted,9,2,F-test,SVM,include,0.34188034188034183,21,42,False
+handcrafted,9,2,F-test,SVM,exclude,0.34188034188034183,21,42,True
+handcrafted,9,2,F-test,LDA,include,0.3511111111111111,21,42,False
+handcrafted,9,2,F-test,LDA,exclude,0.3511111111111111,21,42,True
+handcrafted,9,2,F-test,Decision Tree,include,0.2896825396825397,21,42,False
+handcrafted,9,2,F-test,Decision Tree,exclude,0.2896825396825397,21,42,True
+handcrafted,9,2,F-test,XGBoost,include,0.3054626532887403,21,42,False
+handcrafted,9,2,F-test,XGBoost,exclude,0.3054626532887403,21,42,True
+handcrafted,9,3,MI,SVM,include,0.3146853146853147,21,42,False
+handcrafted,9,3,MI,SVM,exclude,0.3146853146853147,21,42,True
+handcrafted,9,3,MI,LDA,include,0.2772727272727273,21,42,False
+handcrafted,9,3,MI,LDA,exclude,0.2772727272727273,21,42,True
+handcrafted,9,3,MI,Decision Tree,include,0.3790849673202614,21,42,False
+handcrafted,9,3,MI,Decision Tree,exclude,0.3790849673202614,21,42,True
+handcrafted,9,3,MI,XGBoost,include,0.3747412008281574,21,42,False
+handcrafted,9,3,MI,XGBoost,exclude,0.3747412008281574,21,42,True
+handcrafted,9,3,F-test,SVM,include,0.3055555555555555,21,42,False
+handcrafted,9,3,F-test,SVM,exclude,0.3055555555555555,21,42,True
+handcrafted,9,3,F-test,LDA,include,0.20130718954248364,21,42,False
+handcrafted,9,3,F-test,LDA,exclude,0.20130718954248364,21,42,True
+handcrafted,9,3,F-test,Decision Tree,include,0.35309617918313574,21,42,False
+handcrafted,9,3,F-test,Decision Tree,exclude,0.35309617918313574,21,42,True
+handcrafted,9,3,F-test,XGBoost,include,0.35653235653235654,21,42,False
+handcrafted,9,3,F-test,XGBoost,exclude,0.35653235653235654,21,42,True
+handcrafted,11,1,MI,SVM,include,0.4279202279202279,21,42,False
+handcrafted,11,1,MI,SVM,exclude,0.4279202279202279,21,42,True
+handcrafted,11,1,MI,LDA,include,0.4351851851851852,21,42,False
+handcrafted,11,1,MI,LDA,exclude,0.4351851851851852,21,42,True
+handcrafted,11,1,MI,Decision Tree,include,0.3761904761904762,21,42,False
+handcrafted,11,1,MI,Decision Tree,exclude,0.3761904761904762,21,42,True
+handcrafted,11,1,MI,XGBoost,include,0.35384615384615387,21,42,False
+handcrafted,11,1,MI,XGBoost,exclude,0.35384615384615387,21,42,True
+handcrafted,11,1,F-test,SVM,include,0.3238095238095238,21,42,False
+handcrafted,11,1,F-test,SVM,exclude,0.3238095238095238,21,42,True
+handcrafted,11,1,F-test,LDA,include,0.4761904761904762,21,42,False
+handcrafted,11,1,F-test,LDA,exclude,0.4761904761904762,21,42,True
+handcrafted,11,1,F-test,Decision Tree,include,0.36032594856124267,21,42,False
+handcrafted,11,1,F-test,Decision Tree,exclude,0.36032594856124267,21,42,True
+handcrafted,11,1,F-test,XGBoost,include,0.4271929824561404,21,42,False
+handcrafted,11,1,F-test,XGBoost,exclude,0.4271929824561404,21,42,True
+handcrafted,11,2,MI,SVM,include,0.3824175824175824,21,42,False
+handcrafted,11,2,MI,SVM,exclude,0.3824175824175824,21,42,True
+handcrafted,11,2,MI,LDA,include,0.33797313797313794,21,42,False
+handcrafted,11,2,MI,LDA,exclude,0.33797313797313794,21,42,True
+handcrafted,11,2,MI,Decision Tree,include,0.39351851851851855,21,42,False
+handcrafted,11,2,MI,Decision Tree,exclude,0.39351851851851855,21,42,True
+handcrafted,11,2,MI,XGBoost,include,0.3333333333333333,21,42,False
+handcrafted,11,2,MI,XGBoost,exclude,0.3333333333333333,21,42,True
+handcrafted,11,2,F-test,SVM,include,0.4230769230769231,21,42,False
+handcrafted,11,2,F-test,SVM,exclude,0.4230769230769231,21,42,True
+handcrafted,11,2,F-test,LDA,include,0.2884615384615385,21,42,False
+handcrafted,11,2,F-test,LDA,exclude,0.2884615384615385,21,42,True
+handcrafted,11,2,F-test,Decision Tree,include,0.3605889724310776,21,42,False
+handcrafted,11,2,F-test,Decision Tree,exclude,0.3605889724310776,21,42,True
+handcrafted,11,2,F-test,XGBoost,include,0.23809523809523805,21,42,False
+handcrafted,11,2,F-test,XGBoost,exclude,0.23809523809523805,21,42,True
+handcrafted,11,3,MI,SVM,include,0.42857142857142855,21,42,False
+handcrafted,11,3,MI,SVM,exclude,0.42857142857142855,21,42,True
+handcrafted,11,3,MI,LDA,include,0.37875457875457874,21,42,False
+handcrafted,11,3,MI,LDA,exclude,0.37875457875457874,21,42,True
+handcrafted,11,3,MI,Decision Tree,include,0.2692307692307692,21,42,False
+handcrafted,11,3,MI,Decision Tree,exclude,0.2692307692307692,21,42,True
+handcrafted,11,3,MI,XGBoost,include,0.3961352657004831,21,42,False
+handcrafted,11,3,MI,XGBoost,exclude,0.3961352657004831,21,42,True
+handcrafted,11,3,F-test,SVM,include,0.42933537051184106,21,42,False
+handcrafted,11,3,F-test,SVM,exclude,0.42933537051184106,21,42,True
+handcrafted,11,3,F-test,LDA,include,0.30291603821015584,21,42,False
+handcrafted,11,3,F-test,LDA,exclude,0.30291603821015584,21,42,True
+handcrafted,11,3,F-test,Decision Tree,include,0.38260432378079434,21,42,False
+handcrafted,11,3,F-test,Decision Tree,exclude,0.38260432378079434,21,42,True
+handcrafted,11,3,F-test,XGBoost,include,0.25651249335459864,21,42,False
+handcrafted,11,3,F-test,XGBoost,exclude,0.25651249335459864,21,42,True
+handcrafted,13,1,MI,SVM,include,0.30158730158730157,21,42,False
+handcrafted,13,1,MI,SVM,exclude,0.30158730158730157,21,42,True
+handcrafted,13,1,MI,LDA,include,0.3619047619047619,21,42,False
+handcrafted,13,1,MI,LDA,exclude,0.3619047619047619,21,42,True
+handcrafted,13,1,MI,Decision Tree,include,0.25,21,42,False
+handcrafted,13,1,MI,Decision Tree,exclude,0.25,21,42,True
+handcrafted,13,1,MI,XGBoost,include,0.3099128540305011,21,42,False
+handcrafted,13,1,MI,XGBoost,exclude,0.3099128540305011,21,42,True
+handcrafted,13,1,F-test,SVM,include,0.3878787878787879,21,42,False
+handcrafted,13,1,F-test,SVM,exclude,0.3878787878787879,21,42,True
+handcrafted,13,1,F-test,LDA,include,0.3055555555555556,21,42,False
+handcrafted,13,1,F-test,LDA,exclude,0.3055555555555556,21,42,True
+handcrafted,13,1,F-test,Decision Tree,include,0.28502415458937197,21,42,False
+handcrafted,13,1,F-test,Decision Tree,exclude,0.28502415458937197,21,42,True
+handcrafted,13,1,F-test,XGBoost,include,0.16541353383458646,21,42,False
+handcrafted,13,1,F-test,XGBoost,exclude,0.16541353383458646,21,42,True
+handcrafted,13,2,MI,SVM,include,0.43121693121693117,21,42,False
+handcrafted,13,2,MI,SVM,exclude,0.43121693121693117,21,42,True
+handcrafted,13,2,MI,LDA,include,0.49444444444444446,21,42,False
+handcrafted,13,2,MI,LDA,exclude,0.49444444444444446,21,42,True
+handcrafted,13,2,MI,Decision Tree,include,0.34683794466403167,21,42,False
+handcrafted,13,2,MI,Decision Tree,exclude,0.34683794466403167,21,42,True
+handcrafted,13,2,MI,XGBoost,include,0.41798941798941797,21,42,False
+handcrafted,13,2,MI,XGBoost,exclude,0.41798941798941797,21,42,True
+handcrafted,13,2,F-test,SVM,include,0.4915084915084915,21,42,False
+handcrafted,13,2,F-test,SVM,exclude,0.4915084915084915,21,42,True
+handcrafted,13,2,F-test,LDA,include,0.4666666666666666,21,42,False
+handcrafted,13,2,F-test,LDA,exclude,0.4666666666666666,21,42,True
+handcrafted,13,2,F-test,Decision Tree,include,0.37962037962037964,21,42,False
+handcrafted,13,2,F-test,Decision Tree,exclude,0.37962037962037964,21,42,True
+handcrafted,13,2,F-test,XGBoost,include,0.4915084915084915,21,42,False
+handcrafted,13,2,F-test,XGBoost,exclude,0.4915084915084915,21,42,True
+handcrafted,13,3,MI,SVM,include,0.2222222222222222,21,42,False
+handcrafted,13,3,MI,SVM,exclude,0.2222222222222222,21,42,True
+handcrafted,13,3,MI,LDA,include,0.16,21,42,False
+handcrafted,13,3,MI,LDA,exclude,0.16,21,42,True
+handcrafted,13,3,MI,Decision Tree,include,0.21645021645021645,21,42,False
+handcrafted,13,3,MI,Decision Tree,exclude,0.21645021645021645,21,42,True
+handcrafted,13,3,MI,XGBoost,include,0.2579979360165119,21,42,False
+handcrafted,13,3,MI,XGBoost,exclude,0.2579979360165119,21,42,True
+handcrafted,13,3,F-test,SVM,include,0.3246753246753247,21,42,False
+handcrafted,13,3,F-test,SVM,exclude,0.3246753246753247,21,42,True
+handcrafted,13,3,F-test,LDA,include,0.22051282051282053,21,42,False
+handcrafted,13,3,F-test,LDA,exclude,0.22051282051282053,21,42,True
+handcrafted,13,3,F-test,Decision Tree,include,0.2206060606060606,21,42,False
+handcrafted,13,3,F-test,Decision Tree,exclude,0.2206060606060606,21,42,True
+handcrafted,13,3,F-test,XGBoost,include,0.21666666666666667,21,42,False
+handcrafted,13,3,F-test,XGBoost,exclude,0.21666666666666667,21,42,True
+handcrafted,15,1,MI,SVM,include,0.14492753623188406,21,42,False
+handcrafted,15,1,MI,SVM,exclude,0.14492753623188406,21,42,True
+handcrafted,15,1,MI,LDA,include,0.3444444444444444,21,42,False
+handcrafted,15,1,MI,LDA,exclude,0.3444444444444444,21,42,True
+handcrafted,15,1,MI,Decision Tree,include,0.3476608187134502,21,42,False
+handcrafted,15,1,MI,Decision Tree,exclude,0.3476608187134502,21,42,True
+handcrafted,15,1,MI,XGBoost,include,0.21118012422360247,21,42,False
+handcrafted,15,1,MI,XGBoost,exclude,0.21118012422360247,21,42,True
+handcrafted,15,1,F-test,SVM,include,0.344988344988345,21,42,False
+handcrafted,15,1,F-test,SVM,exclude,0.344988344988345,21,42,True
+handcrafted,15,1,F-test,LDA,include,0.41269841269841273,21,42,False
+handcrafted,15,1,F-test,LDA,exclude,0.41269841269841273,21,42,True
+handcrafted,15,1,F-test,Decision Tree,include,0.3649810801513588,21,42,False
+handcrafted,15,1,F-test,Decision Tree,exclude,0.3649810801513588,21,42,True
+handcrafted,15,1,F-test,XGBoost,include,0.38425925925925924,21,42,False
+handcrafted,15,1,F-test,XGBoost,exclude,0.38425925925925924,21,42,True
+handcrafted,15,2,MI,SVM,include,0.22994652406417113,21,42,False
+handcrafted,15,2,MI,SVM,exclude,0.22994652406417113,21,42,True
+handcrafted,15,2,MI,LDA,include,0.37333333333333335,21,42,False
+handcrafted,15,2,MI,LDA,exclude,0.37333333333333335,21,42,True
+handcrafted,15,2,MI,Decision Tree,include,0.4748584748584748,21,42,False
+handcrafted,15,2,MI,Decision Tree,exclude,0.4748584748584748,21,42,True
+handcrafted,15,2,MI,XGBoost,include,0.3072463768115942,21,42,False
+handcrafted,15,2,MI,XGBoost,exclude,0.3072463768115942,21,42,True
+handcrafted,15,2,F-test,SVM,include,0.3333333333333333,21,42,False
+handcrafted,15,2,F-test,SVM,exclude,0.3333333333333333,21,42,True
+handcrafted,15,2,F-test,LDA,include,0.34949494949494947,21,42,False
+handcrafted,15,2,F-test,LDA,exclude,0.34949494949494947,21,42,True
+handcrafted,15,2,F-test,Decision Tree,include,0.3853174603174603,21,42,False
+handcrafted,15,2,F-test,Decision Tree,exclude,0.3853174603174603,21,42,True
+handcrafted,15,2,F-test,XGBoost,include,0.38067632850241545,21,42,False
+handcrafted,15,2,F-test,XGBoost,exclude,0.38067632850241545,21,42,True
+handcrafted,15,3,MI,SVM,include,0.3800186741363212,21,42,False
+handcrafted,15,3,MI,SVM,exclude,0.3800186741363212,21,42,True
+handcrafted,15,3,MI,LDA,include,0.2920634920634921,21,42,False
+handcrafted,15,3,MI,LDA,exclude,0.2920634920634921,21,42,True
+handcrafted,15,3,MI,Decision Tree,include,0.23809523809523805,21,42,False
+handcrafted,15,3,MI,Decision Tree,exclude,0.23809523809523805,21,42,True
+handcrafted,15,3,MI,XGBoost,include,0.20526315789473681,21,42,False
+handcrafted,15,3,MI,XGBoost,exclude,0.20526315789473681,21,42,True
+handcrafted,15,3,F-test,SVM,include,0.3800186741363212,21,42,False
+handcrafted,15,3,F-test,SVM,exclude,0.3800186741363212,21,42,True
+handcrafted,15,3,F-test,LDA,include,0.2836052836052836,21,42,False
+handcrafted,15,3,F-test,LDA,exclude,0.2836052836052836,21,42,True
+handcrafted,15,3,F-test,Decision Tree,include,0.23809523809523805,21,42,False
+handcrafted,15,3,F-test,Decision Tree,exclude,0.23809523809523805,21,42,True
+handcrafted,15,3,F-test,XGBoost,include,0.20526315789473681,21,42,False
+handcrafted,15,3,F-test,XGBoost,exclude,0.20526315789473681,21,42,True
+handcrafted,17,1,MI,SVM,include,0.4871794871794872,21,42,False
+handcrafted,17,1,MI,SVM,exclude,0.4871794871794872,21,42,True
+handcrafted,17,1,MI,LDA,include,0.1722222222222222,21,42,False
+handcrafted,17,1,MI,LDA,exclude,0.1722222222222222,21,42,True
+handcrafted,17,1,MI,Decision Tree,include,0.46717817561807334,21,42,False
+handcrafted,17,1,MI,Decision Tree,exclude,0.46717817561807334,21,42,True
+handcrafted,17,1,MI,XGBoost,include,0.33868092691622104,21,42,False
+handcrafted,17,1,MI,XGBoost,exclude,0.33868092691622104,21,42,True
+handcrafted,17,1,F-test,SVM,include,0.45714285714285713,21,42,False
+handcrafted,17,1,F-test,SVM,exclude,0.45714285714285713,21,42,True
+handcrafted,17,1,F-test,LDA,include,0.2738095238095238,21,42,False
+handcrafted,17,1,F-test,LDA,exclude,0.2738095238095238,21,42,True
+handcrafted,17,1,F-test,Decision Tree,include,0.4343434343434343,21,42,False
+handcrafted,17,1,F-test,Decision Tree,exclude,0.4343434343434343,21,42,True
+handcrafted,17,1,F-test,XGBoost,include,0.4444444444444444,21,42,False
+handcrafted,17,1,F-test,XGBoost,exclude,0.4444444444444444,21,42,True
+handcrafted,17,2,MI,SVM,include,0.34829059829059833,21,42,False
+handcrafted,17,2,MI,SVM,exclude,0.34829059829059833,21,42,True
+handcrafted,17,2,MI,LDA,include,0.3156565656565657,21,42,False
+handcrafted,17,2,MI,LDA,exclude,0.3156565656565657,21,42,True
+handcrafted,17,2,MI,Decision Tree,include,0.2675026123301985,21,42,False
+handcrafted,17,2,MI,Decision Tree,exclude,0.2675026123301985,21,42,True
+handcrafted,17,2,MI,XGBoost,include,0.4483333333333333,21,42,False
+handcrafted,17,2,MI,XGBoost,exclude,0.4483333333333333,21,42,True
+handcrafted,17,2,F-test,SVM,include,0.4246913580246914,21,42,False
+handcrafted,17,2,F-test,SVM,exclude,0.4246913580246914,21,42,True
+handcrafted,17,2,F-test,LDA,include,0.31347962382445144,21,42,False
+handcrafted,17,2,F-test,LDA,exclude,0.31347962382445144,21,42,True
+handcrafted,17,2,F-test,Decision Tree,include,0.2528735632183908,21,42,False
+handcrafted,17,2,F-test,Decision Tree,exclude,0.2528735632183908,21,42,True
+handcrafted,17,2,F-test,XGBoost,include,0.39730639730639733,21,42,False
+handcrafted,17,2,F-test,XGBoost,exclude,0.39730639730639733,21,42,True
+handcrafted,17,3,MI,SVM,include,0.48188405797101447,21,42,False
+handcrafted,17,3,MI,SVM,exclude,0.48188405797101447,21,42,True
+handcrafted,17,3,MI,LDA,include,0.443859649122807,21,42,False
+handcrafted,17,3,MI,LDA,exclude,0.443859649122807,21,42,True
+handcrafted,17,3,MI,Decision Tree,include,0.5140350877192982,21,42,False
+handcrafted,17,3,MI,Decision Tree,exclude,0.5140350877192982,21,42,True
+handcrafted,17,3,MI,XGBoost,include,0.4761904761904761,21,42,False
+handcrafted,17,3,MI,XGBoost,exclude,0.4761904761904761,21,42,True
+handcrafted,17,3,F-test,SVM,include,0.34035087719298246,21,42,False
+handcrafted,17,3,F-test,SVM,exclude,0.34035087719298246,21,42,True
+handcrafted,17,3,F-test,LDA,include,0.4761904761904761,21,42,False
+handcrafted,17,3,F-test,LDA,exclude,0.4761904761904761,21,42,True
+handcrafted,17,3,F-test,Decision Tree,include,0.37566137566137564,21,42,False
+handcrafted,17,3,F-test,Decision Tree,exclude,0.37566137566137564,21,42,True
+handcrafted,17,3,F-test,XGBoost,include,0.37789661319073087,21,42,False
+handcrafted,17,3,F-test,XGBoost,exclude,0.37789661319073087,21,42,True
+handcrafted,19,1,MI,SVM,include,0.1878787878787879,21,42,False
+handcrafted,19,1,MI,SVM,exclude,0.1878787878787879,21,42,True
+handcrafted,19,1,MI,LDA,include,0.3347985347985348,21,42,False
+handcrafted,19,1,MI,LDA,exclude,0.3347985347985348,21,42,True
+handcrafted,19,1,MI,Decision Tree,include,0.3206423206423206,21,42,False
+handcrafted,19,1,MI,Decision Tree,exclude,0.3206423206423206,21,42,True
+handcrafted,19,1,MI,XGBoost,include,0.3111111111111111,21,42,False
+handcrafted,19,1,MI,XGBoost,exclude,0.3111111111111111,21,42,True
+handcrafted,19,1,F-test,SVM,include,0.36762360446570974,21,42,False
+handcrafted,19,1,F-test,SVM,exclude,0.36762360446570974,21,42,True
+handcrafted,19,1,F-test,LDA,include,0.42686202686202684,21,42,False
+handcrafted,19,1,F-test,LDA,exclude,0.42686202686202684,21,42,True
+handcrafted,19,1,F-test,Decision Tree,include,0.240824534942182,21,42,False
+handcrafted,19,1,F-test,Decision Tree,exclude,0.240824534942182,21,42,True
+handcrafted,19,1,F-test,XGBoost,include,0.18253968253968253,21,42,False
+handcrafted,19,1,F-test,XGBoost,exclude,0.18253968253968253,21,42,True
+handcrafted,19,2,MI,SVM,include,0.28351648351648356,21,42,False
+handcrafted,19,2,MI,SVM,exclude,0.28351648351648356,21,42,True
+handcrafted,19,2,MI,LDA,include,0.43681917211328986,21,42,False
+handcrafted,19,2,MI,LDA,exclude,0.43681917211328986,21,42,True
+handcrafted,19,2,MI,Decision Tree,include,0.05555555555555555,21,42,False
+handcrafted,19,2,MI,Decision Tree,exclude,0.05555555555555555,21,42,True
+handcrafted,19,2,MI,XGBoost,include,0.24273504273504276,21,42,False
+handcrafted,19,2,MI,XGBoost,exclude,0.24273504273504276,21,42,True
+handcrafted,19,2,F-test,SVM,include,0.26666666666666666,21,42,False
+handcrafted,19,2,F-test,SVM,exclude,0.26666666666666666,21,42,True
+handcrafted,19,2,F-test,LDA,include,0.3494949494949495,21,42,False
+handcrafted,19,2,F-test,LDA,exclude,0.3494949494949495,21,42,True
+handcrafted,19,2,F-test,Decision Tree,include,0.0,21,42,False
+handcrafted,19,2,F-test,Decision Tree,exclude,0.0,21,42,True
+handcrafted,19,2,F-test,XGBoost,include,0.32287581699346407,21,42,False
+handcrafted,19,2,F-test,XGBoost,exclude,0.32287581699346407,21,42,True
+handcrafted,19,3,MI,SVM,include,0.1214574898785425,21,42,False
+handcrafted,19,3,MI,SVM,exclude,0.1214574898785425,21,42,True
+handcrafted,19,3,MI,LDA,include,0.13333333333333333,21,42,False
+handcrafted,19,3,MI,LDA,exclude,0.13333333333333333,21,42,True
+handcrafted,19,3,MI,Decision Tree,include,0.16526610644257703,21,42,False
+handcrafted,19,3,MI,Decision Tree,exclude,0.16526610644257703,21,42,True
+handcrafted,19,3,MI,XGBoost,include,0.15654520917678813,21,42,False
+handcrafted,19,3,MI,XGBoost,exclude,0.15654520917678813,21,42,True
+handcrafted,19,3,F-test,SVM,include,0.07017543859649122,21,42,False
+handcrafted,19,3,F-test,SVM,exclude,0.07017543859649122,21,42,True
+handcrafted,19,3,F-test,LDA,include,0.08333333333333333,21,42,False
+handcrafted,19,3,F-test,LDA,exclude,0.08333333333333333,21,42,True
+handcrafted,19,3,F-test,Decision Tree,include,0.16526610644257703,21,42,False
+handcrafted,19,3,F-test,Decision Tree,exclude,0.16526610644257703,21,42,True
+handcrafted,19,3,F-test,XGBoost,include,0.25098039215686274,21,42,False
+handcrafted,19,3,F-test,XGBoost,exclude,0.25098039215686274,21,42,True
+handcrafted,21,1,MI,SVM,include,0.4743230625583566,21,42,False
+handcrafted,21,1,MI,SVM,exclude,0.4743230625583566,21,42,True
+handcrafted,21,1,MI,LDA,include,0.5920192638458892,21,42,False
+handcrafted,21,1,MI,LDA,exclude,0.5920192638458892,21,42,True
+handcrafted,21,1,MI,Decision Tree,include,0.4357864357864358,21,42,False
+handcrafted,21,1,MI,Decision Tree,exclude,0.4357864357864358,21,42,True
+handcrafted,21,1,MI,XGBoost,include,0.35897435897435903,21,42,False
+handcrafted,21,1,MI,XGBoost,exclude,0.35897435897435903,21,42,True
+handcrafted,21,1,F-test,SVM,include,0.5352941176470588,21,42,False
+handcrafted,21,1,F-test,SVM,exclude,0.5352941176470588,21,42,True
+handcrafted,21,1,F-test,LDA,include,0.5048732943469786,21,42,False
+handcrafted,21,1,F-test,LDA,exclude,0.5048732943469786,21,42,True
+handcrafted,21,1,F-test,Decision Tree,include,0.6565656565656566,21,42,False
+handcrafted,21,1,F-test,Decision Tree,exclude,0.6565656565656566,21,42,True
+handcrafted,21,1,F-test,XGBoost,include,0.6547619047619048,21,42,False
+handcrafted,21,1,F-test,XGBoost,exclude,0.6547619047619048,21,42,True
+handcrafted,21,2,MI,SVM,include,0.3606237816764133,21,42,False
+handcrafted,21,2,MI,SVM,exclude,0.3606237816764133,21,42,True
+handcrafted,21,2,MI,LDA,include,0.34422657952069713,21,42,False
+handcrafted,21,2,MI,LDA,exclude,0.34422657952069713,21,42,True
+handcrafted,21,2,MI,Decision Tree,include,0.5527777777777777,21,42,False
+handcrafted,21,2,MI,Decision Tree,exclude,0.5527777777777777,21,42,True
+handcrafted,21,2,MI,XGBoost,include,0.35648148148148145,21,42,False
+handcrafted,21,2,MI,XGBoost,exclude,0.35648148148148145,21,42,True
+handcrafted,21,2,F-test,SVM,include,0.39814814814814814,21,42,False
+handcrafted,21,2,F-test,SVM,exclude,0.39814814814814814,21,42,True
+handcrafted,21,2,F-test,LDA,include,0.4362745098039216,21,42,False
+handcrafted,21,2,F-test,LDA,exclude,0.4362745098039216,21,42,True
+handcrafted,21,2,F-test,Decision Tree,include,0.4074074074074074,21,42,False
+handcrafted,21,2,F-test,Decision Tree,exclude,0.4074074074074074,21,42,True
+handcrafted,21,2,F-test,XGBoost,include,0.4002489884842826,21,42,False
+handcrafted,21,2,F-test,XGBoost,exclude,0.4002489884842826,21,42,True
+handcrafted,21,3,MI,SVM,include,0.27994227994227994,21,42,False
+handcrafted,21,3,MI,SVM,exclude,0.27994227994227994,21,42,True
+handcrafted,21,3,MI,LDA,include,0.3470899470899471,21,42,False
+handcrafted,21,3,MI,LDA,exclude,0.3470899470899471,21,42,True
+handcrafted,21,3,MI,Decision Tree,include,0.37789661319073087,21,42,False
+handcrafted,21,3,MI,Decision Tree,exclude,0.37789661319073087,21,42,True
+handcrafted,21,3,MI,XGBoost,include,0.3439153439153439,21,42,False
+handcrafted,21,3,MI,XGBoost,exclude,0.3439153439153439,21,42,True
+handcrafted,21,3,F-test,SVM,include,0.2698412698412698,21,42,False
+handcrafted,21,3,F-test,SVM,exclude,0.2698412698412698,21,42,True
+handcrafted,21,3,F-test,LDA,include,0.35185185185185186,21,42,False
+handcrafted,21,3,F-test,LDA,exclude,0.35185185185185186,21,42,True
+handcrafted,21,3,F-test,Decision Tree,include,0.3439153439153439,21,42,False
+handcrafted,21,3,F-test,Decision Tree,exclude,0.3439153439153439,21,42,True
+handcrafted,21,3,F-test,XGBoost,include,0.3439153439153439,21,42,False
+handcrafted,21,3,F-test,XGBoost,exclude,0.3439153439153439,21,42,True
+handcrafted,23,1,MI,SVM,include,0.15384615384615385,21,42,False
+handcrafted,23,1,MI,SVM,exclude,0.15384615384615385,21,42,True
+handcrafted,23,1,MI,LDA,include,0.15384615384615385,21,42,False
+handcrafted,23,1,MI,LDA,exclude,0.15384615384615385,21,42,True
+handcrafted,23,1,MI,Decision Tree,include,0.1111111111111111,21,42,False
+handcrafted,23,1,MI,Decision Tree,exclude,0.1111111111111111,21,42,True
+handcrafted,23,1,MI,XGBoost,include,0.3416666666666666,21,42,False
+handcrafted,23,1,MI,XGBoost,exclude,0.3416666666666666,21,42,True
+handcrafted,23,1,F-test,SVM,include,0.14646464646464644,21,42,False
+handcrafted,23,1,F-test,SVM,exclude,0.14646464646464644,21,42,True
+handcrafted,23,1,F-test,LDA,include,0.3115942028985507,21,42,False
+handcrafted,23,1,F-test,LDA,exclude,0.3115942028985507,21,42,True
+handcrafted,23,1,F-test,Decision Tree,include,0.1111111111111111,21,42,False
+handcrafted,23,1,F-test,Decision Tree,exclude,0.1111111111111111,21,42,True
+handcrafted,23,1,F-test,XGBoost,include,0.1214574898785425,21,42,False
+handcrafted,23,1,F-test,XGBoost,exclude,0.1214574898785425,21,42,True
+handcrafted,23,2,MI,SVM,include,0.5509803921568628,21,42,False
+handcrafted,23,2,MI,SVM,exclude,0.5509803921568628,21,42,True
+handcrafted,23,2,MI,LDA,include,0.47908902691511385,21,42,False
+handcrafted,23,2,MI,LDA,exclude,0.47908902691511385,21,42,True
+handcrafted,23,2,MI,Decision Tree,include,0.3833333333333333,21,42,False
+handcrafted,23,2,MI,Decision Tree,exclude,0.3833333333333333,21,42,True
+handcrafted,23,2,MI,XGBoost,include,0.5821428571428572,21,42,False
+handcrafted,23,2,MI,XGBoost,exclude,0.5821428571428572,21,42,True
+handcrafted,23,2,F-test,SVM,include,0.4901960784313726,21,42,False
+handcrafted,23,2,F-test,SVM,exclude,0.4901960784313726,21,42,True
+handcrafted,23,2,F-test,LDA,include,0.46274509803921565,21,42,False
+handcrafted,23,2,F-test,LDA,exclude,0.46274509803921565,21,42,True
+handcrafted,23,2,F-test,Decision Tree,include,0.5888888888888889,21,42,False
+handcrafted,23,2,F-test,Decision Tree,exclude,0.5888888888888889,21,42,True
+handcrafted,23,2,F-test,XGBoost,include,0.41052631578947363,21,42,False
+handcrafted,23,2,F-test,XGBoost,exclude,0.41052631578947363,21,42,True
+handcrafted,23,3,MI,SVM,include,0.4444444444444444,21,42,False
+handcrafted,23,3,MI,SVM,exclude,0.4444444444444444,21,42,True
+handcrafted,23,3,MI,LDA,include,0.5039682539682541,21,42,False
+handcrafted,23,3,MI,LDA,exclude,0.5039682539682541,21,42,True
+handcrafted,23,3,MI,Decision Tree,include,0.5044858523119392,21,42,False
+handcrafted,23,3,MI,Decision Tree,exclude,0.5044858523119392,21,42,True
+handcrafted,23,3,MI,XGBoost,include,0.34848484848484845,21,42,False
+handcrafted,23,3,MI,XGBoost,exclude,0.34848484848484845,21,42,True
+handcrafted,23,3,F-test,SVM,include,0.4071428571428572,21,42,False
+handcrafted,23,3,F-test,SVM,exclude,0.4071428571428572,21,42,True
+handcrafted,23,3,F-test,LDA,include,0.3255360623781676,21,42,False
+handcrafted,23,3,F-test,LDA,exclude,0.3255360623781676,21,42,True
+handcrafted,23,3,F-test,Decision Tree,include,0.3956043956043956,21,42,False
+handcrafted,23,3,F-test,Decision Tree,exclude,0.3956043956043956,21,42,True
+handcrafted,23,3,F-test,XGBoost,include,0.3814814814814815,21,42,False
+handcrafted,23,3,F-test,XGBoost,exclude,0.3814814814814815,21,42,True
+handcrafted,27,1,MI,SVM,include,0.48181818181818176,21,42,False
+handcrafted,27,1,MI,SVM,exclude,0.48181818181818176,21,42,True
+handcrafted,27,1,MI,LDA,include,0.4218200100553042,21,42,False
+handcrafted,27,1,MI,LDA,exclude,0.4218200100553042,21,42,True
+handcrafted,27,1,MI,Decision Tree,include,0.23809523809523805,21,42,False
+handcrafted,27,1,MI,Decision Tree,exclude,0.23809523809523805,21,42,True
+handcrafted,27,1,MI,XGBoost,include,0.34054834054834054,21,42,False
+handcrafted,27,1,MI,XGBoost,exclude,0.34054834054834054,21,42,True
+handcrafted,27,1,F-test,SVM,include,0.4296128707893414,21,42,False
+handcrafted,27,1,F-test,SVM,exclude,0.4296128707893414,21,42,True
+handcrafted,27,1,F-test,LDA,include,0.4899470899470899,21,42,False
+handcrafted,27,1,F-test,LDA,exclude,0.4899470899470899,21,42,True
+handcrafted,27,1,F-test,Decision Tree,include,0.4467171717171717,21,42,False
+handcrafted,27,1,F-test,Decision Tree,exclude,0.4467171717171717,21,42,True
+handcrafted,27,1,F-test,XGBoost,include,0.4739926739926739,21,42,False
+handcrafted,27,1,F-test,XGBoost,exclude,0.4739926739926739,21,42,True
+handcrafted,27,2,MI,SVM,include,0.41133603238866395,21,42,False
+handcrafted,27,2,MI,SVM,exclude,0.41133603238866395,21,42,True
+handcrafted,27,2,MI,LDA,include,0.3311355311355311,21,42,False
+handcrafted,27,2,MI,LDA,exclude,0.3311355311355311,21,42,True
+handcrafted,27,2,MI,Decision Tree,include,0.5185185185185185,21,42,False
+handcrafted,27,2,MI,Decision Tree,exclude,0.5185185185185185,21,42,True
+handcrafted,27,2,MI,XGBoost,include,0.27698032961190855,21,42,False
+handcrafted,27,2,MI,XGBoost,exclude,0.27698032961190855,21,42,True
+handcrafted,27,2,F-test,SVM,include,0.2750544662309368,21,42,False
+handcrafted,27,2,F-test,SVM,exclude,0.2750544662309368,21,42,True
+handcrafted,27,2,F-test,LDA,include,0.19047619047619047,21,42,False
+handcrafted,27,2,F-test,LDA,exclude,0.19047619047619047,21,42,True
+handcrafted,27,2,F-test,Decision Tree,include,0.23828976034858387,21,42,False
+handcrafted,27,2,F-test,Decision Tree,exclude,0.23828976034858387,21,42,True
+handcrafted,27,2,F-test,XGBoost,include,0.2734912146676853,21,42,False
+handcrafted,27,2,F-test,XGBoost,exclude,0.2734912146676853,21,42,True
+handcrafted,27,3,MI,SVM,include,0.38518518518518513,21,42,False
+handcrafted,27,3,MI,SVM,exclude,0.38518518518518513,21,42,True
+handcrafted,27,3,MI,LDA,include,0.3099128540305011,21,42,False
+handcrafted,27,3,MI,LDA,exclude,0.3099128540305011,21,42,True
+handcrafted,27,3,MI,Decision Tree,include,0.603030303030303,21,42,False
+handcrafted,27,3,MI,Decision Tree,exclude,0.603030303030303,21,42,True
+handcrafted,27,3,MI,XGBoost,include,0.39848484848484844,21,42,False
+handcrafted,27,3,MI,XGBoost,exclude,0.39848484848484844,21,42,True
+handcrafted,27,3,F-test,SVM,include,0.2555555555555556,21,42,False
+handcrafted,27,3,F-test,SVM,exclude,0.2555555555555556,21,42,True
+handcrafted,27,3,F-test,LDA,include,0.2809523809523809,21,42,False
+handcrafted,27,3,F-test,LDA,exclude,0.2809523809523809,21,42,True
+handcrafted,27,3,F-test,Decision Tree,include,0.35146198830409353,21,42,False
+handcrafted,27,3,F-test,Decision Tree,exclude,0.35146198830409353,21,42,True
+handcrafted,27,3,F-test,XGBoost,include,0.23398692810457514,21,42,False
+handcrafted,27,3,F-test,XGBoost,exclude,0.23398692810457514,21,42,True
+handcrafted,29,1,MI,SVM,include,0.1895424836601307,21,42,False
+handcrafted,29,1,MI,SVM,exclude,0.1895424836601307,21,42,True
+handcrafted,29,1,MI,LDA,include,0.21388888888888888,21,42,False
+handcrafted,29,1,MI,LDA,exclude,0.21388888888888888,21,42,True
+handcrafted,29,1,MI,Decision Tree,include,0.16732026143790849,21,42,False
+handcrafted,29,1,MI,Decision Tree,exclude,0.16732026143790849,21,42,True
+handcrafted,29,1,MI,XGBoost,include,0.18596218596218597,21,42,False
+handcrafted,29,1,MI,XGBoost,exclude,0.18596218596218597,21,42,True
+handcrafted,29,1,F-test,SVM,include,0.48412698412698413,21,42,False
+handcrafted,29,1,F-test,SVM,exclude,0.48412698412698413,21,42,True
+handcrafted,29,1,F-test,LDA,include,0.27499999999999997,21,42,False
+handcrafted,29,1,F-test,LDA,exclude,0.27499999999999997,21,42,True
+handcrafted,29,1,F-test,Decision Tree,include,0.3356643356643357,21,42,False
+handcrafted,29,1,F-test,Decision Tree,exclude,0.3356643356643357,21,42,True
+handcrafted,29,1,F-test,XGBoost,include,0.14423076923076925,21,42,False
+handcrafted,29,1,F-test,XGBoost,exclude,0.14423076923076925,21,42,True
+handcrafted,29,2,MI,SVM,include,0.22377622377622378,21,42,False
+handcrafted,29,2,MI,SVM,exclude,0.22377622377622378,21,42,True
+handcrafted,29,2,MI,LDA,include,0.18207282913165265,21,42,False
+handcrafted,29,2,MI,LDA,exclude,0.18207282913165265,21,42,True
+handcrafted,29,2,MI,Decision Tree,include,0.30158730158730157,21,42,False
+handcrafted,29,2,MI,Decision Tree,exclude,0.30158730158730157,21,42,True
+handcrafted,29,2,MI,XGBoost,include,0.3055555555555556,21,42,False
+handcrafted,29,2,MI,XGBoost,exclude,0.3055555555555556,21,42,True
+handcrafted,29,2,F-test,SVM,include,0.36111111111111116,21,42,False
+handcrafted,29,2,F-test,SVM,exclude,0.36111111111111116,21,42,True
+handcrafted,29,2,F-test,LDA,include,0.34848484848484845,21,42,False
+handcrafted,29,2,F-test,LDA,exclude,0.34848484848484845,21,42,True
+handcrafted,29,2,F-test,Decision Tree,include,0.41333333333333333,21,42,False
+handcrafted,29,2,F-test,Decision Tree,exclude,0.41333333333333333,21,42,True
+handcrafted,29,2,F-test,XGBoost,include,0.3762626262626263,21,42,False
+handcrafted,29,2,F-test,XGBoost,exclude,0.3762626262626263,21,42,True
+handcrafted,29,3,MI,SVM,include,0.3247863247863248,21,42,False
+handcrafted,29,3,MI,SVM,exclude,0.3247863247863248,21,42,True
+handcrafted,29,3,MI,LDA,include,0.34057971014492755,21,42,False
+handcrafted,29,3,MI,LDA,exclude,0.34057971014492755,21,42,True
+handcrafted,29,3,MI,Decision Tree,include,0.19607843137254902,21,42,False
+handcrafted,29,3,MI,Decision Tree,exclude,0.19607843137254902,21,42,True
+handcrafted,29,3,MI,XGBoost,include,0.20952380952380953,21,42,False
+handcrafted,29,3,MI,XGBoost,exclude,0.20952380952380953,21,42,True
+handcrafted,29,3,F-test,SVM,include,0.2818627450980392,21,42,False
+handcrafted,29,3,F-test,SVM,exclude,0.2818627450980392,21,42,True
+handcrafted,29,3,F-test,LDA,include,0.47973856209150334,21,42,False
+handcrafted,29,3,F-test,LDA,exclude,0.47973856209150334,21,42,True
+handcrafted,29,3,F-test,Decision Tree,include,0.2352941176470588,21,42,False
+handcrafted,29,3,F-test,Decision Tree,exclude,0.2352941176470588,21,42,True
+handcrafted,29,3,F-test,XGBoost,include,0.38539238539238535,21,42,False
+handcrafted,29,3,F-test,XGBoost,exclude,0.38539238539238535,21,42,True
+handcrafted,31,1,MI,SVM,include,0.35104669887278583,21,42,False
+handcrafted,31,1,MI,SVM,exclude,0.35104669887278583,21,42,True
+handcrafted,31,1,MI,LDA,include,0.28484848484848485,21,42,False
+handcrafted,31,1,MI,LDA,exclude,0.28484848484848485,21,42,True
+handcrafted,31,1,MI,Decision Tree,include,0.22698412698412698,21,42,False
+handcrafted,31,1,MI,Decision Tree,exclude,0.22698412698412698,21,42,True
+handcrafted,31,1,MI,XGBoost,include,0.31746031746031744,21,42,False
+handcrafted,31,1,MI,XGBoost,exclude,0.31746031746031744,21,42,True
+handcrafted,31,1,F-test,SVM,include,0.3301282051282051,21,42,False
+handcrafted,31,1,F-test,SVM,exclude,0.3301282051282051,21,42,True
+handcrafted,31,1,F-test,LDA,include,0.27,21,42,False
+handcrafted,31,1,F-test,LDA,exclude,0.27,21,42,True
+handcrafted,31,1,F-test,Decision Tree,include,0.28502415458937197,21,42,False
+handcrafted,31,1,F-test,Decision Tree,exclude,0.28502415458937197,21,42,True
+handcrafted,31,1,F-test,XGBoost,include,0.34259259259259256,21,42,False
+handcrafted,31,1,F-test,XGBoost,exclude,0.34259259259259256,21,42,True
+handcrafted,31,2,MI,SVM,include,0.4170692431561997,21,42,False
+handcrafted,31,2,MI,SVM,exclude,0.4170692431561997,21,42,True
+handcrafted,31,2,MI,LDA,include,0.24019607843137256,21,42,False
+handcrafted,31,2,MI,LDA,exclude,0.24019607843137256,21,42,True
+handcrafted,31,2,MI,Decision Tree,include,0.3142639206712433,21,42,False
+handcrafted,31,2,MI,Decision Tree,exclude,0.3142639206712433,21,42,True
+handcrafted,31,2,MI,XGBoost,include,0.2384313725490196,21,42,False
+handcrafted,31,2,MI,XGBoost,exclude,0.2384313725490196,21,42,True
+handcrafted,31,2,F-test,SVM,include,0.34259259259259256,21,42,False
+handcrafted,31,2,F-test,SVM,exclude,0.34259259259259256,21,42,True
+handcrafted,31,2,F-test,LDA,include,0.25396825396825395,21,42,False
+handcrafted,31,2,F-test,LDA,exclude,0.25396825396825395,21,42,True
+handcrafted,31,2,F-test,Decision Tree,include,0.4246913580246914,21,42,False
+handcrafted,31,2,F-test,Decision Tree,exclude,0.4246913580246914,21,42,True
+handcrafted,31,2,F-test,XGBoost,include,0.26556776556776557,21,42,False
+handcrafted,31,2,F-test,XGBoost,exclude,0.26556776556776557,21,42,True
+handcrafted,31,3,MI,SVM,include,0.25641025641025644,21,42,False
+handcrafted,31,3,MI,SVM,exclude,0.25641025641025644,21,42,True
+handcrafted,31,3,MI,LDA,include,0.2833333333333334,21,42,False
+handcrafted,31,3,MI,LDA,exclude,0.2833333333333334,21,42,True
+handcrafted,31,3,MI,Decision Tree,include,0.2530864197530864,21,42,False
+handcrafted,31,3,MI,Decision Tree,exclude,0.2530864197530864,21,42,True
+handcrafted,31,3,MI,XGBoost,include,0.28190476190476194,21,42,False
+handcrafted,31,3,MI,XGBoost,exclude,0.28190476190476194,21,42,True
+handcrafted,31,3,F-test,SVM,include,0.32976827094474154,21,42,False
+handcrafted,31,3,F-test,SVM,exclude,0.32976827094474154,21,42,True
+handcrafted,31,3,F-test,LDA,include,0.2833333333333334,21,42,False
+handcrafted,31,3,F-test,LDA,exclude,0.2833333333333334,21,42,True
+handcrafted,31,3,F-test,Decision Tree,include,0.1728395061728395,21,42,False
+handcrafted,31,3,F-test,Decision Tree,exclude,0.1728395061728395,21,42,True
+handcrafted,31,3,F-test,XGBoost,include,0.1728395061728395,21,42,False
+handcrafted,31,3,F-test,XGBoost,exclude,0.1728395061728395,21,42,True
