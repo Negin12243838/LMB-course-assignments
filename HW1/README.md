@@ -10,3 +10,14 @@ This folder currently contains the fixed-fold sensitivity comparison requested f
 - [Validation record](Q2_Fixed_Fold_Comparison/local_validation.json)
 
 All extracted supporting result tables, the figure and configuration are in `Q2_Fixed_Fold_Comparison/results`.
+
+## mRMR hyperparameter ablation and updated paper
+
+- [Experiment guide](Q2_mRMR_Hyperparameter_Ablation/README.md)
+- [Results and interpretation](Q2_mRMR_Hyperparameter_Ablation/RESULTS.md)
+- [Question 2 paper PDF](Q2_Report/LMB_HW1_Q2_Report.pdf)
+- [Paper source](Q2_Report/LMB_HW1_Q2_Report.tex)
+
+The new experiment retains all original trials and distinguishes grid exploration from nested selection. Its supplied result archive is preserved; the notebook that generated the hyperparameter grid was not supplied. The earlier fixed-top20 mRMR notebook remains in Q2_Fixed_Fold_Comparison and is a separate experiment.
+
+- [Main standalone Question 2 notebooks](Q2_Main_Notebooks/): fixed-fold reference, wavelet comparison, revised compact features, revised MoE, and foundation-assisted experts.
